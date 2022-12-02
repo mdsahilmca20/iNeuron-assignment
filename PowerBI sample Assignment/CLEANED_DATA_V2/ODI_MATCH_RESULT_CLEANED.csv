@@ -1,0 +1,1323 @@
+﻿START_DATE,MATCH_ID,RESULT,MARGIN,TOSS,BAT,OPPOSITION,GROUND,COUNTRY,COUNTRY_ID
+3-Jan-13,ODI # 3315,won,85 runs,lost,1st, India,Kolkata,PAKISTAN,7
+3-Jan-13,ODI # 3315,lost,85 runs,won,2nd, Pakistan,Kolkata,INDIA,6
+6-Jan-13,ODI # 3316,lost,10 runs,lost,2nd, India,Delhi,PAKISTAN,7
+6-Jan-13,ODI # 3316,won,10 runs,won,1st, Pakistan,Delhi,INDIA,6
+11-Jan-13,ODI # 3317,lost,107 runs,lost,2nd, Australia,Melbourne,SRILANKA,8
+11-Jan-13,ODI # 3317,won,107 runs,won,1st, Sri Lanka,Melbourne,AUSTRALIA,2
+11-Jan-13,ODI # 3318,lost,9 runs,lost,2nd, England,Rajkot,INDIA,6
+11-Jan-13,ODI # 3318,won,9 runs,won,1st, India,Rajkot,ENGLAND,1
+13-Jan-13,ODI # 3319,won,8 wickets,won,2nd, Australia,Adelaide,SRILANKA,8
+13-Jan-13,ODI # 3319,lost,8 wickets,lost,1st, Sri Lanka,Adelaide,AUSTRALIA,2
+15-Jan-13,ODI # 3320,won,127 runs,won,1st, England,Kochi,INDIA,6
+15-Jan-13,ODI # 3320,lost,127 runs,lost,2nd, India,Kochi,ENGLAND,1
+18-Jan-13,ODI # 3321,won,4 wickets,lost,2nd, Australia,Brisbane,SRILANKA,8
+18-Jan-13,ODI # 3321,lost,4 wickets,won,1st, Sri Lanka,Brisbane,AUSTRALIA,2
+19-Jan-13,ODI # 3322,won,7 wickets,won,2nd, England,Ranchi,INDIA,6
+19-Jan-13,ODI # 3322,lost,7 wickets,lost,1st, India,Ranchi,ENGLAND,1
+19-Jan-13,ODI # 3323,lost,1 wickets,lost,1st, New Zealand,Paarl,SOUTHAFRICA,3
+19-Jan-13,ODI # 3323,won,1 wickets,won,2nd, South Africa,Paarl,NEWZEALAD,5
+22-Jan-13,ODI # 3325,lost,27 runs,won,2nd, New Zealand,Kimberley,SOUTHAFRICA,3
+22-Jan-13,ODI # 3325,won,27 runs,lost,1st, South Africa,Kimberley,NEWZEALAD,5
+23-Jan-13,ODI # 3326,lost,32 runs,won,2nd, Australia,Hobart,SRILANKA,8
+23-Jan-13,ODI # 3326,won,32 runs,lost,1st, Sri Lanka,Hobart,AUSTRALIA,2
+23-Jan-13,ODI # 3327,won,5 wickets,won,2nd, England,Mohali,INDIA,6
+23-Jan-13,ODI # 3327,lost,5 wickets,lost,1st, India,Mohali,ENGLAND,1
+25-Jan-13,ODI # 3328,won,1 wickets,lost,2nd, New Zealand,Potchefstroom,SOUTHAFRICA,3
+25-Jan-13,ODI # 3328,lost,1 wickets,won,1st, South Africa,Potchefstroom,NEWZEALAD,5
+27-Jan-13,ODI # 3329,lost,7 wickets,lost,1st, England,Dharamsala,INDIA,6
+27-Jan-13,ODI # 3329,won,7 wickets,won,2nd, India,Dharamsala,ENGLAND,1
+1-Feb-13,ODI # 3330,lost,9 wickets,won,1st, Australia,Perth,WESTINDIES,4
+1-Feb-13,ODI # 3330,won,9 wickets,lost,2nd, West Indies,Perth,AUSTRALIA,2
+3-Feb-13,ODI # 3331,lost,54 runs,won,2nd, Australia,Perth,WESTINDIES,4
+3-Feb-13,ODI # 3331,won,54 runs,lost,1st, West Indies,Perth,AUSTRALIA,2
+6-Feb-13,ODI # 3332,lost,39 runs,lost,2nd, Australia,Canberra,WESTINDIES,4
+6-Feb-13,ODI # 3332,won,39 runs,won,1st, West Indies,Canberra,AUSTRALIA,2
+8-Feb-13,ODI # 3333,lost,5 wickets,won,1st, Australia,Sydney,WESTINDIES,4
+8-Feb-13,ODI # 3333,won,5 wickets,lost,2nd, West Indies,Sydney,AUSTRALIA,2
+10-Feb-13,ODI # 3334,lost,17 runs,won,2nd, Australia,Melbourne,WESTINDIES,4
+10-Feb-13,ODI # 3334,won,17 runs,lost,1st, West Indies,Melbourne,AUSTRALIA,2
+17-Feb-13,ODI # 3335,won,3 wickets,won,2nd, England,Hamilton,NEWZEALAD,5
+17-Feb-13,ODI # 3335,lost,3 wickets,lost,1st, New Zealand,Hamilton,ENGLAND,1
+20-Feb-13,ODI # 3336,lost,8 wickets,lost,1st, England,Napier,NEWZEALAD,5
+20-Feb-13,ODI # 3336,won,8 wickets,won,2nd, New Zealand,Napier,ENGLAND,1
+22-Feb-13,ODI # 3337,won,156 runs,lost,1st, Zimbabwe,St George's,WESTINDIES,4
+23-Feb-13,ODI # 3338,lost,5 wickets,lost,1st, England,Auckland,NEWZEALAD,5
+23-Feb-13,ODI # 3338,won,5 wickets,won,2nd, New Zealand,Auckland,ENGLAND,1
+24-Feb-13,ODI # 3339,won,7 wickets,lost,2nd, Zimbabwe,St George's,WESTINDIES,4
+26-Feb-13,ODI # 3340,won,5 wickets,lost,2nd, Zimbabwe,St George's,WESTINDIES,4
+6-Mar-13,ODI # 3341,won,7 wickets,lost,2nd, Scotland,Sharjah,AFGHANISTAN,40
+8-Mar-13,ODI # 3342,won,5 wickets,won,2nd, Scotland,Sharjah,AFGHANISTAN,40
+10-Mar-13,ODI # 3343,won,125 runs,lost,1st, Pakistan,Bloemfontein,SOUTHAFRICA,3
+10-Mar-13,ODI # 3343,lost,125 runs,won,2nd, South Africa,Bloemfontein,PAKISTAN,7
+15-Mar-13,ODI # 3346,lost,6 wickets,won,1st, Pakistan,Centurion,SOUTHAFRICA,3
+15-Mar-13,ODI # 3346,won,6 wickets,lost,2nd, South Africa,Centurion,PAKISTAN,7
+17-Mar-13,ODI # 3347,won,34 runs,lost,1st, Pakistan,Johannesburg,SOUTHAFRICA,3
+17-Mar-13,ODI # 3347,lost,34 runs,won,2nd, South Africa,Johannesburg,PAKISTAN,7
+21-Mar-13,ODI # 3348,lost,3 wickets,won,1st, Pakistan,Durban,SOUTHAFRICA,3
+21-Mar-13,ODI # 3348,won,3 wickets,lost,2nd, South Africa,Durban,PAKISTAN,7
+23-Mar-13,ODI # 3349,won,8 wickets,won,2nd, Bangladesh,Hambantota,SRILANKA,8
+23-Mar-13,ODI # 3349,lost,8 wickets,lost,1st, Sri Lanka,Hambantota,BANGLADESH,25
+24-Mar-13,ODI # 3350,won,6 wickets,lost,2nd, Pakistan,Benoni,SOUTHAFRICA,3
+24-Mar-13,ODI # 3350,lost,6 wickets,won,1st, South Africa,Benoni,PAKISTAN,7
+28-Mar-13,ODI # 3352,lost,3 wickets,won,1st, Bangladesh,Pallekele,SRILANKA,8
+28-Mar-13,ODI # 3352,won,3 wickets,lost,2nd, Sri Lanka,Pallekele,BANGLADESH,25
+3-May-13,ODI # 3353,won,121 runs,lost,1st, Zimbabwe,Bulawayo,BANGLADESH,25
+5-May-13,ODI # 3354,lost,6 wickets,lost,1st, Zimbabwe,Bulawayo,BANGLADESH,25
+8-May-13,ODI # 3355,lost,7 wickets,lost,1st, Zimbabwe,Bulawayo,BANGLADESH,25
+17-May-13,ODI # 3356,won,96 runs,won,1st, Scotland,Edinburgh,PAKISTAN,7
+26-May-13,ODI # 3358,won,2 wickets,won,2nd, Ireland,Dublin,PAKISTAN,7
+31-May-13,ODI # 3359,won,83 runs,won,1st, Netherlands,Amstelveen,SOUTHAFRICA,3
+31-May-13,ODI # 3360,won,5 wickets,won,2nd, England,Lord's,NEWZEALAD,5
+31-May-13,ODI # 3360,lost,5 wickets,lost,1st, New Zealand,Lord's,ENGLAND,1
+2-Jun-13,ODI # 3361,won,86 runs,won,1st, England,Southampton,NEWZEALAD,5
+2-Jun-13,ODI # 3361,lost,86 runs,lost,2nd, New Zealand,Southampton,ENGLAND,1
+5-Jun-13,ODI # 3362,lost,34 runs,won,2nd, England,Nottingham,NEWZEALAD,5
+5-Jun-13,ODI # 3362,won,34 runs,lost,1st, New Zealand,Nottingham,ENGLAND,1
+6-Jun-13,ODI # 3363,lost,26 runs,won,2nd, India,Cardiff,SOUTHAFRICA,3
+6-Jun-13,ODI # 3363,won,26 runs,lost,1st, South Africa,Cardiff,INDIA,6
+7-Jun-13,ODI # 3364,won,2 wickets,won,2nd, Pakistan,The Oval,WESTINDIES,4
+7-Jun-13,ODI # 3364,lost,2 wickets,lost,1st, West Indies,The Oval,PAKISTAN,7
+8-Jun-13,ODI # 3365,won,48 runs,won,1st, Australia,Birmingham,ENGLAND,1
+8-Jun-13,ODI # 3365,lost,48 runs,lost,2nd, England,Birmingham,AUSTRALIA,2
+9-Jun-13,ODI # 3366,lost,1 wickets,won,1st, New Zealand,Cardiff,SRILANKA,8
+9-Jun-13,ODI # 3366,won,1 wickets,lost,2nd, Sri Lanka,Cardiff,NEWZEALAD,5
+10-Jun-13,ODI # 3367,won,67 runs,won,1st, Pakistan,Birmingham,SOUTHAFRICA,3
+10-Jun-13,ODI # 3367,lost,67 runs,lost,2nd, South Africa,Birmingham,PAKISTAN,7
+11-Jun-13,ODI # 3368,lost,8 wickets,lost,1st, India,The Oval,WESTINDIES,4
+11-Jun-13,ODI # 3368,won,8 wickets,won,2nd, West Indies,The Oval,INDIA,6
+13-Jun-13,ODI # 3370,won,7 wickets,won,2nd, England,The Oval,SRILANKA,8
+13-Jun-13,ODI # 3370,lost,7 wickets,lost,1st, Sri Lanka,The Oval,ENGLAND,1
+15-Jun-13,ODI # 3372,lost,8 wickets,lost,1st, India,Birmingham,PAKISTAN,7
+15-Jun-13,ODI # 3372,won,8 wickets,won,2nd, Pakistan,Birmingham,INDIA,6
+16-Jun-13,ODI # 3373,lost,10 runs,won,2nd, England,Cardiff,NEWZEALAD,5
+16-Jun-13,ODI # 3373,won,10 runs,lost,1st, New Zealand,Cardiff,ENGLAND,1
+17-Jun-13,ODI # 3374,won,20 runs,lost,1st, Australia,The Oval,SRILANKA,8
+17-Jun-13,ODI # 3374,lost,20 runs,won,2nd, Sri Lanka,The Oval,AUSTRALIA,2
+19-Jun-13,ODI # 3375,lost,7 wickets,lost,1st, England,The Oval,SOUTHAFRICA,3
+19-Jun-13,ODI # 3375,won,7 wickets,won,2nd, South Africa,The Oval,ENGLAND,1
+20-Jun-13,ODI # 3376,lost,8 wickets,lost,1st, India,Cardiff,SRILANKA,8
+20-Jun-13,ODI # 3376,won,8 wickets,won,2nd, Sri Lanka,Cardiff,INDIA,6
+23-Jun-13,ODI # 3377,won,5 runs,lost,1st, England,Birmingham,INDIA,6
+23-Jun-13,ODI # 3377,lost,5 runs,won,2nd, India,Birmingham,ENGLAND,1
+28-Jun-13,ODI # 3378,won,6 wickets,won,2nd, Sri Lanka,Kingston,WESTINDIES,4
+28-Jun-13,ODI # 3378,lost,6 wickets,lost,1st, West Indies,Kingston,SRILANKA,8
+30-Jun-13,ODI # 3380,won,1 wickets,won,2nd, India,Kingston,WESTINDIES,4
+30-Jun-13,ODI # 3380,lost,1 wickets,lost,1st, West Indies,Kingston,INDIA,6
+2-Jul-13,ODI # 3382,won,161 runs,lost,1st, India,Kingston,SRILANKA,8
+2-Jul-13,ODI # 3382,lost,161 runs,won,2nd, Sri Lanka,Kingston,INDIA,6
+5-Jul-13,ODI # 3383,lost,102 runs,won,2nd, India,Port of Spain,WESTINDIES,4
+5-Jul-13,ODI # 3383,won,102 runs,lost,1st, West Indies,Port of Spain,INDIA,6
+7-Jul-13,ODI # 3385,lost,39 runs,won,2nd, Sri Lanka,Port of Spain,WESTINDIES,4
+7-Jul-13,ODI # 3385,won,39 runs,lost,1st, West Indies,Port of Spain,SRILANKA,8
+9-Jul-13,ODI # 3387,lost,81 runs,won,2nd, India,Port of Spain,SRILANKA,8
+9-Jul-13,ODI # 3387,won,81 runs,lost,1st, Sri Lanka,Port of Spain,INDIA,6
+11-Jul-13,ODI # 3388,lost,1 wickets,lost,1st, India,Port of Spain,SRILANKA,8
+11-Jul-13,ODI # 3388,won,1 wickets,won,2nd, Sri Lanka,Port of Spain,INDIA,6
+14-Jul-13,ODI # 3389,lost,126 runs,won,2nd, Pakistan,Providence,WESTINDIES,4
+14-Jul-13,ODI # 3389,won,126 runs,lost,1st, West Indies,Providence,PAKISTAN,7
+16-Jul-13,ODI # 3390,won,37 runs,lost,1st, Pakistan,Providence,WESTINDIES,4
+16-Jul-13,ODI # 3390,lost,37 runs,won,2nd, West Indies,Providence,PAKISTAN,7
+20-Jul-13,ODI # 3392,won,180 runs,lost,1st, South Africa,Colombo (RPS),SRILANKA,8
+20-Jul-13,ODI # 3392,lost,180 runs,won,2nd, Sri Lanka,Colombo (RPS),SOUTHAFRICA,3
+21-Jul-13,ODI # 3393,lost,6 wickets,lost,1st, Pakistan,Gros Islet,WESTINDIES,4
+21-Jul-13,ODI # 3393,won,6 wickets,won,2nd, West Indies,Gros Islet,PAKISTAN,7
+23-Jul-13,ODI # 3394,won,17 runs,won,1st, South Africa,Colombo (RPS),SRILANKA,8
+23-Jul-13,ODI # 3394,lost,17 runs,lost,2nd, Sri Lanka,Colombo (RPS),SOUTHAFRICA,3
+24-Jul-13,ODI # 3395,won,6 wickets,won,2nd, Zimbabwe,Harare,INDIA,6
+24-Jul-13,ODI # 3396,lost,4 wickets,lost,1st, Pakistan,Gros Islet,WESTINDIES,4
+24-Jul-13,ODI # 3396,won,4 wickets,won,2nd, West Indies,Gros Islet,PAKISTAN,7
+26-Jul-13,ODI # 3397,won,58 runs,lost,1st, Zimbabwe,Harare,INDIA,6
+26-Jul-13,ODI # 3398,lost,56 runs,lost,2nd, South Africa,Pallekele,SRILANKA,8
+26-Jul-13,ODI # 3398,won,56 runs,won,1st, Sri Lanka,Pallekele,SOUTHAFRICA,3
+28-Jul-13,ODI # 3399,won,7 wickets,won,2nd, Zimbabwe,Harare,INDIA,6
+28-Jul-13,ODI # 3400,won,8 wickets,lost,2nd, South Africa,Pallekele,SRILANKA,8
+28-Jul-13,ODI # 3400,lost,8 wickets,won,1st, Sri Lanka,Pallekele,SOUTHAFRICA,3
+31-Jul-13,ODI # 3401,won,128 runs,won,1st, South Africa,Colombo (RPS),SRILANKA,8
+31-Jul-13,ODI # 3401,lost,128 runs,lost,2nd, Sri Lanka,Colombo (RPS),SOUTHAFRICA,3
+1-Aug-13,ODI # 3402,won,9 wickets,won,2nd, Zimbabwe,Bulawayo,INDIA,6
+3-Aug-13,ODI # 3403,won,7 wickets,won,2nd, Zimbabwe,Bulawayo,INDIA,6
+27-Aug-13,ODI # 3404,lost,7 wickets,won,1st, Zimbabwe,Harare,PAKISTAN,7
+29-Aug-13,ODI # 3406,won,90 runs,lost,1st, Zimbabwe,Harare,PAKISTAN,7
+31-Aug-13,ODI # 3408,won,108 runs,lost,1st, Zimbabwe,Harare,PAKISTAN,7
+3-Sep-13,ODI # 3409,won,6 wickets,won,2nd, Ireland,Dublin (Malahide),ENGLAND,1
+3-Sep-13,ODI # 3410,won,200 runs,lost,1st, Scotland,Edinburgh,AUSTRALIA,2
+8-Sep-13,ODI # 3412,lost,88 runs,won,2nd, Australia,Manchester,ENGLAND,1
+8-Sep-13,ODI # 3412,won,88 runs,lost,1st, England,Manchester,AUSTRALIA,2
+14-Sep-13,ODI # 3415,won,3 wickets,won,2nd, Australia,Cardiff,ENGLAND,1
+14-Sep-13,ODI # 3415,lost,3 wickets,lost,1st, England,Cardiff,AUSTRALIA,2
+16-Sep-13,ODI # 3416,lost,49 runs,lost,2nd, Australia,Southampton,ENGLAND,1
+16-Sep-13,ODI # 3416,won,49 runs,won,1st, England,Southampton,AUSTRALIA,2
+2-Oct-13,ODI # 3417,won,8 wickets,lost,2nd, Kenya,Sharjah,AFGHANISTAN,40
+4-Oct-13,ODI # 3418,won,7 wickets,won,2nd, Kenya,Sharjah,AFGHANISTAN,40
+13-Oct-13,ODI # 3419,lost,72 runs,lost,2nd, Australia,Pune,INDIA,6
+13-Oct-13,ODI # 3419,won,72 runs,won,1st, India,Pune,AUSTRALIA,2
+16-Oct-13,ODI # 3420,won,9 wickets,lost,2nd, Australia,Jaipur,INDIA,6
+16-Oct-13,ODI # 3420,lost,9 wickets,won,1st, India,Jaipur,AUSTRALIA,2
+19-Oct-13,ODI # 3421,lost,4 wickets,lost,1st, Australia,Mohali,INDIA,6
+19-Oct-13,ODI # 3421,won,4 wickets,won,2nd, India,Mohali,AUSTRALIA,2
+29-Oct-13,ODI # 3423,lost,43 runs,won,2nd, Bangladesh,Dhaka,NEWZEALAD,5
+29-Oct-13,ODI # 3423,won,43 runs,lost,1st, New Zealand,Dhaka,BANGLADESH,25
+30-Oct-13,ODI # 3424,won,6 wickets,won,2nd, Australia,Nagpur,INDIA,6
+30-Oct-13,ODI # 3424,lost,6 wickets,lost,1st, India,Nagpur,AUSTRALIA,2
+30-Oct-13,ODI # 3425,won,1 runs,won,1st, Pakistan,Sharjah,SOUTHAFRICA,3
+30-Oct-13,ODI # 3425,lost,1 runs,lost,2nd, South Africa,Sharjah,PAKISTAN,7
+31-Oct-13,ODI # 3426,lost,40 runs,lost,2nd, Bangladesh,Dhaka,NEWZEALAD,5
+31-Oct-13,ODI # 3426,won,40 runs,won,1st, New Zealand,Dhaka,BANGLADESH,25
+1-Nov-13,ODI # 3427,lost,66 runs,lost,2nd, Pakistan,Dubai (DSC),SOUTHAFRICA,3
+1-Nov-13,ODI # 3427,won,66 runs,won,1st, South Africa,Dubai (DSC),PAKISTAN,7
+2-Nov-13,ODI # 3428,won,57 runs,lost,1st, Australia,Bengaluru,INDIA,6
+2-Nov-13,ODI # 3428,lost,57 runs,won,2nd, India,Bengaluru,AUSTRALIA,2
+3-Nov-13,ODI # 3429,lost,4 wickets,lost,1st, Bangladesh,Fatullah,NEWZEALAD,5
+3-Nov-13,ODI # 3429,won,4 wickets,won,2nd, New Zealand,Fatullah,BANGLADESH,25
+6-Nov-13,ODI # 3430,won,68 runs,won,1st, Pakistan,Abu Dhabi,SOUTHAFRICA,3
+6-Nov-13,ODI # 3430,lost,68 runs,lost,2nd, South Africa,Abu Dhabi,PAKISTAN,7
+8-Nov-13,ODI # 3431,won,28 runs,won,1st, Pakistan,Abu Dhabi,SOUTHAFRICA,3
+8-Nov-13,ODI # 3431,lost,28 runs,lost,2nd, South Africa,Abu Dhabi,PAKISTAN,7
+11-Nov-13,ODI # 3433,won,117 runs,won,1st, Pakistan,Sharjah,SOUTHAFRICA,3
+11-Nov-13,ODI # 3433,lost,117 runs,lost,2nd, South Africa,Sharjah,PAKISTAN,7
+12-Nov-13,ODI # 3434,lost,4 wickets,won,1st, New Zealand,Hambantota,SRILANKA,8
+12-Nov-13,ODI # 3434,won,4 wickets,lost,2nd, Sri Lanka,Hambantota,NEWZEALAD,5
+16-Nov-13,ODI # 3435,won,36 runs,lost,1st, New Zealand,Dambulla,SRILANKA,8
+16-Nov-13,ODI # 3435,lost,36 runs,won,2nd, Sri Lanka,Dambulla,NEWZEALAD,5
+21-Nov-13,ODI # 3436,lost,6 wickets,won,1st, India,Kochi,WESTINDIES,4
+21-Nov-13,ODI # 3436,won,6 wickets,lost,2nd, West Indies,Kochi,INDIA,6
+24-Nov-13,ODI # 3437,won,2 wickets,won,2nd, India,Visakhapatnam,WESTINDIES,4
+24-Nov-13,ODI # 3437,lost,2 wickets,lost,1st, West Indies,Visakhapatnam,INDIA,6
+24-Nov-13,ODI # 3438,lost,23 runs,lost,2nd, Pakistan,Cape Town,SOUTHAFRICA,3
+24-Nov-13,ODI # 3438,won,23 runs,won,1st, South Africa,Cape Town,PAKISTAN,7
+27-Nov-13,ODI # 3439,lost,5 wickets,lost,1st, India,Kanpur,WESTINDIES,4
+27-Nov-13,ODI # 3439,won,5 wickets,won,2nd, West Indies,Kanpur,INDIA,6
+27-Nov-13,ODI # 3440,lost,1 runs,won,2nd, Pakistan,Port Elizabeth,SOUTHAFRICA,3
+27-Nov-13,ODI # 3440,won,1 runs,lost,1st, South Africa,Port Elizabeth,PAKISTAN,7
+30-Nov-13,ODI # 3441,won,4 wickets,won,2nd, Pakistan,Centurion,SOUTHAFRICA,3
+30-Nov-13,ODI # 3441,lost,4 wickets,lost,1st, South Africa,Centurion,PAKISTAN,7
+5-Dec-13,ODI # 3442,won,141 runs,lost,1st, India,Johannesburg,SOUTHAFRICA,3
+5-Dec-13,ODI # 3442,lost,141 runs,won,2nd, South Africa,Johannesburg,INDIA,6
+8-Dec-13,ODI # 3443,won,134 runs,lost,1st, India,Durban,SOUTHAFRICA,3
+8-Dec-13,ODI # 3443,lost,134 runs,won,2nd, South Africa,Durban,INDIA,6
+18-Dec-13,ODI # 3445,lost,11 runs,lost,2nd, Pakistan,Sharjah,SRILANKA,8
+18-Dec-13,ODI # 3445,won,11 runs,won,1st, Sri Lanka,Sharjah,PAKISTAN,7
+20-Dec-13,ODI # 3446,won,2 wickets,won,2nd, Pakistan,Dubai (DSC),SRILANKA,8
+20-Dec-13,ODI # 3446,lost,2 wickets,lost,1st, Sri Lanka,Dubai (DSC),PAKISTAN,7
+22-Dec-13,ODI # 3447,lost,113 runs,won,2nd, Pakistan,Sharjah,SRILANKA,8
+22-Dec-13,ODI # 3447,won,113 runs,lost,1st, Sri Lanka,Sharjah,PAKISTAN,7
+25-Dec-13,ODI # 3448,lost,8 wickets,won,1st, Pakistan,Abu Dhabi,SRILANKA,8
+25-Dec-13,ODI # 3448,won,8 wickets,lost,2nd, Sri Lanka,Abu Dhabi,PAKISTAN,7
+26-Dec-13,ODI # 3449,won,2 wickets,won,2nd, New Zealand,Auckland,WESTINDIES,4
+26-Dec-13,ODI # 3449,lost,2 wickets,lost,1st, West Indies,Auckland,NEWZEALAD,5
+27-Dec-13,ODI # 3450,won,2 wickets,lost,2nd, Pakistan,Abu Dhabi,SRILANKA,8
+27-Dec-13,ODI # 3450,lost,2 wickets,won,1st, Sri Lanka,Abu Dhabi,PAKISTAN,7
+1-Jan-14,ODI # 3451,lost,159 runs,won,2nd, New Zealand,Queenstown,WESTINDIES,4
+1-Jan-14,ODI # 3451,won,159 runs,lost,1st, West Indies,Queenstown,NEWZEALAD,5
+4-Jan-14,ODI # 3452,lost,58 runs,lost,2nd, New Zealand,Nelson,WESTINDIES,4
+4-Jan-14,ODI # 3452,won,58 runs,won,1st, West Indies,Nelson,NEWZEALAD,5
+8-Jan-14,ODI # 3453,won,203 runs,lost,1st, New Zealand,Hamilton,WESTINDIES,4
+8-Jan-14,ODI # 3453,lost,203 runs,won,2nd, West Indies,Hamilton,NEWZEALAD,5
+12-Jan-14,ODI # 3454,lost,6 wickets,won,1st, Australia,Melbourne,ENGLAND,1
+12-Jan-14,ODI # 3454,won,6 wickets,lost,2nd, England,Melbourne,AUSTRALIA,2
+17-Jan-14,ODI # 3455,lost,1 wickets,won,1st, Australia,Brisbane,ENGLAND,1
+17-Jan-14,ODI # 3455,won,1 wickets,lost,2nd, England,Brisbane,AUSTRALIA,2
+19-Jan-14,ODI # 3456,won,24 runs,lost,1st, India,Napier,NEWZEALAD,5
+19-Jan-14,ODI # 3456,lost,24 runs,won,2nd, New Zealand,Napier,INDIA,6
+19-Jan-14,ODI # 3457,lost,7 wickets,won,1st, Australia,Sydney,ENGLAND,1
+19-Jan-14,ODI # 3457,won,7 wickets,lost,2nd, England,Sydney,AUSTRALIA,2
+22-Jan-14,ODI # 3458,won,15 runs,lost,1st, India,Hamilton,NEWZEALAD,5
+22-Jan-14,ODI # 3458,lost,15 runs,won,2nd, New Zealand,Hamilton,INDIA,6
+24-Jan-14,ODI # 3461,won,57 runs,lost,1st, Australia,Perth,ENGLAND,1
+24-Jan-14,ODI # 3461,lost,57 runs,won,2nd, England,Perth,AUSTRALIA,2
+20-Jan-13,ODI # 3324,n/r,,lost,2nd, Australia,Sydney,SRILANKA,8
+20-Jan-13,ODI # 3324,n/r,,won,1st, Sri Lanka,Sydney,AUSTRALIA,2
+25-Mar-13,ODI # 3351,n/r,,lost,1st, Bangladesh,Hambantota,SRILANKA,8
+25-Mar-13,ODI # 3351,n/r,,won,2nd, Sri Lanka,Hambantota,BANGLADESH,25
+23-May-13,ODI # 3357,tied,,won,1st, Ireland,Dublin,PAKISTAN,7
+12-Jun-13,ODI # 3369,n/r,,lost,2nd, Australia,Birmingham,NEWZEALAD,5
+12-Jun-13,ODI # 3369,n/r,,won,1st, New Zealand,Birmingham,AUSTRALIA,2
+14-Jun-13,ODI # 3371,tied,,won,2nd, South Africa,Cardiff,WESTINDIES,4
+14-Jun-13,ODI # 3371,tied,,lost,1st, West Indies,Cardiff,SOUTHAFRICA,3
+19-Jul-13,ODI # 3391,tied,,won,2nd, Pakistan,Gros Islet,WESTINDIES,4
+19-Jul-13,ODI # 3391,tied,,lost,1st, West Indies,Gros Islet,PAKISTAN,7
+11-Sep-13,ODI # 3414,n/r,,lost,1st, Australia,Birmingham,ENGLAND,1
+11-Sep-13,ODI # 3414,n/r,,won,2nd, England,Birmingham,AUSTRALIA,2
+23-Oct-13,ODI # 3422,n/r,,won,2nd, Australia,Ranchi,INDIA,6
+23-Oct-13,ODI # 3422,n/r,,lost,1st, India,Ranchi,AUSTRALIA,2
+10-Nov-13,ODI # 3432,n/r,,lost,1st, New Zealand,Hambantota,SRILANKA,8
+10-Nov-13,ODI # 3432,n/r,,won,2nd, Sri Lanka,Hambantota,NEWZEALAD,5
+11-Dec-13,ODI # 3444,n/r,,won,1st, India,Centurion,SOUTHAFRICA,3
+11-Dec-13,ODI # 3444,n/r,,lost,2nd, South Africa,Centurion,INDIA,6
+19-May-13,ODI # 3356,NOT PLAYED,,,, Scotland,Edinburgh,PAKISTAN,7
+6-Sep-13,ODI # 3410,NOT PLAYED,,,, Australia,Leeds,ENGLAND,1
+6-Sep-13,ODI # 3410,NOT PLAYED,,,, England,Leeds,AUSTRALIA,2
+26-Oct-13,ODI # 3422,NOT PLAYED,,,, Australia,Cuttack,INDIA,6
+26-Oct-13,ODI # 3422,NOT PLAYED,,,, India,Cuttack,AUSTRALIA,2
+29-Dec-13,ODI # 3450,NOT PLAYED,,,, New Zealand,Napier,WESTINDIES,4
+29-Dec-13,ODI # 3450,NOT PLAYED,,,, West Indies,Napier,NEWZEALAD,5
+25-Jan-14,ODI # 3462,tied,,lost,1st, India,Auckland,NEWZEALAD,5
+25-Jan-14,ODI # 3462,tied,,won,2nd, New Zealand,Auckland,INDIA,6
+26-Jan-14,ODI # 3463,lost,5 runs,lost,2nd, Australia,Adelaide,ENGLAND,1
+26-Jan-14,ODI # 3463,won,5 runs,won,1st, England,Adelaide,AUSTRALIA,2
+28-Jan-14,ODI # 3465,won,7 wickets,lost,2nd, India,Hamilton,NEWZEALAD,5
+28-Jan-14,ODI # 3465,lost,7 wickets,won,1st, New Zealand,Hamilton,INDIA,6
+31-Jan-14,ODI # 3467,won,87 runs,lost,1st, India,Wellington,NEWZEALAD,5
+31-Jan-14,ODI # 3467,lost,87 runs,won,2nd, New Zealand,Wellington,INDIA,6
+17-Feb-14,ODI # 3469,won,13 runs,lost,1st, Bangladesh,Dhaka,SRILANKA,8
+17-Feb-14,ODI # 3469,lost,13 runs,won,2nd, Sri Lanka,Dhaka,BANGLADESH,25
+20-Feb-14,ODI # 3470,won,61 runs,won,1st, Bangladesh,Dhaka,SRILANKA,8
+20-Feb-14,ODI # 3470,lost,61 runs,lost,2nd, Sri Lanka,Dhaka,BANGLADESH,25
+22-Feb-14,ODI # 3471,won,6 wickets,won,2nd, Bangladesh,Dhaka,SRILANKA,8
+22-Feb-14,ODI # 3471,lost,6 wickets,lost,1st, Sri Lanka,Dhaka,BANGLADESH,25
+23-Feb-14,ODI # 3472,won,4 wickets,lost,2nd, Ireland,Kingston,WESTINDIES,4
+25-Feb-14,ODI # 3473,won,12 runs,won,1st, Pakistan,Fatullah,SRILANKA,8
+25-Feb-14,ODI # 3473,lost,12 runs,lost,2nd, Sri Lanka,Fatullah,PAKISTAN,7
+26-Feb-14,ODI # 3474,won,6 wickets,won,2nd, Bangladesh,Fatullah,INDIA,6
+26-Feb-14,ODI # 3474,lost,6 wickets,lost,1st, India,Fatullah,BANGLADESH,25
+27-Feb-14,ODI # 3475,won,72 runs,lost,1st, Afghanistan,Fatullah,PAKISTAN,7
+27-Feb-14,ODI # 3475,lost,72 runs,won,2nd, Pakistan,Fatullah,AFGHANISTAN,40
+28-Feb-14,ODI # 3476,won,2 wickets,won,2nd, India,Fatullah,SRILANKA,8
+28-Feb-14,ODI # 3476,lost,2 wickets,lost,1st, Sri Lanka,Fatullah,INDIA,6
+28-Feb-14,ODI # 3477,won,15 runs,lost,1st, England,North Sound,WESTINDIES,4
+28-Feb-14,ODI # 3477,lost,15 runs,won,2nd, West Indies,North Sound,ENGLAND,1
+1-Mar-14,ODI # 3478,lost,32 runs,won,2nd, Afghanistan,Fatullah,BANGLADESH,25
+1-Mar-14,ODI # 3478,won,32 runs,lost,1st, Bangladesh,Fatullah,AFGHANISTAN,40
+2-Mar-14,ODI # 3479,won,1 wickets,won,2nd, India,Dhaka,PAKISTAN,7
+2-Mar-14,ODI # 3479,lost,1 wickets,lost,1st, Pakistan,Dhaka,INDIA,6
+2-Mar-14,ODI # 3480,lost,3 wickets,lost,1st, England,North Sound,WESTINDIES,4
+2-Mar-14,ODI # 3480,won,3 wickets,won,2nd, West Indies,North Sound,ENGLAND,1
+3-Mar-14,ODI # 3481,won,129 runs,won,1st, Afghanistan,Dhaka,SRILANKA,8
+3-Mar-14,ODI # 3481,lost,129 runs,lost,2nd, Sri Lanka,Dhaka,AFGHANISTAN,40
+4-Mar-14,ODI # 3482,won,3 wickets,lost,2nd, Bangladesh,Dhaka,PAKISTAN,7
+4-Mar-14,ODI # 3482,lost,3 wickets,won,1st, Pakistan,Dhaka,BANGLADESH,25
+5-Mar-14,ODI # 3483,won,8 wickets,won,2nd, Afghanistan,Dhaka,INDIA,6
+5-Mar-14,ODI # 3483,lost,8 wickets,lost,1st, India,Dhaka,AFGHANISTAN,40
+5-Mar-14,ODI # 3484,lost,25 runs,won,2nd, England,North Sound,WESTINDIES,4
+5-Mar-14,ODI # 3484,won,25 runs,lost,1st, West Indies,North Sound,ENGLAND,1
+6-Mar-14,ODI # 3485,won,3 wickets,lost,2nd, Bangladesh,Dhaka,SRILANKA,8
+6-Mar-14,ODI # 3485,lost,3 wickets,won,1st, Sri Lanka,Dhaka,BANGLADESH,25
+8-Mar-14,ODI # 3486,won,5 wickets,lost,2nd, Pakistan,Dhaka,SRILANKA,8
+8-Mar-14,ODI # 3486,lost,5 wickets,won,1st, Sri Lanka,Dhaka,PAKISTAN,7
+1-May-14,ODI # 3487,won,6 wickets,won,2nd, Hong Kong,Kuala Lumpur,AFGHANISTAN,40
+2-May-14,ODI # 3488,won,70 runs,lost,1st, U.A.E.,Kuala Lumpur,AFGHANISTAN,40
+6-May-14,ODI # 3490,won,79 runs,lost,1st, Ireland,Dublin,SRILANKA,8
+9-May-14,ODI # 3491,won,39 runs,lost,1st, Scotland,Aberdeen,ENGLAND,1
+22-May-14,ODI # 3492,lost,81 runs,won,2nd, England,The Oval,SRILANKA,8
+22-May-14,ODI # 3492,won,81 runs,lost,1st, Sri Lanka,The Oval,ENGLAND,1
+25-May-14,ODI # 3493,won,157 runs,lost,1st, England,Chester-le-Street,SRILANKA,8
+25-May-14,ODI # 3493,lost,157 runs,won,2nd, Sri Lanka,Chester-le-Street,ENGLAND,1
+28-May-14,ODI # 3494,lost,10 wickets,lost,1st, England,Manchester,SRILANKA,8
+28-May-14,ODI # 3494,won,10 wickets,won,2nd, Sri Lanka,Manchester,ENGLAND,1
+31-May-14,ODI # 3495,won,7 runs,lost,1st, England,Lord's,SRILANKA,8
+31-May-14,ODI # 3495,lost,7 runs,won,2nd, Sri Lanka,Lord's,ENGLAND,1
+3-Jun-14,ODI # 3496,won,6 wickets,lost,2nd, England,Birmingham,SRILANKA,8
+3-Jun-14,ODI # 3496,lost,6 wickets,won,1st, Sri Lanka,Birmingham,ENGLAND,1
+15-Jun-14,ODI # 3497,won,7 wickets,lost,2nd, Bangladesh,Dhaka,INDIA,6
+15-Jun-14,ODI # 3497,lost,7 wickets,won,1st, India,Dhaka,BANGLADESH,25
+17-Jun-14,ODI # 3498,won,47 runs,lost,1st, Bangladesh,Dhaka,INDIA,6
+17-Jun-14,ODI # 3498,lost,47 runs,won,2nd, India,Dhaka,BANGLADESH,25
+6-Jul-14,ODI # 3500,lost,75 runs,lost,2nd, South Africa,Colombo (RPS),SRILANKA,8
+6-Jul-14,ODI # 3500,won,75 runs,won,1st, Sri Lanka,Colombo (RPS),SOUTHAFRICA,3
+9-Jul-14,ODI # 3501,won,87 runs,won,1st, South Africa,Pallekele,SRILANKA,8
+9-Jul-14,ODI # 3501,lost,87 runs,lost,2nd, Sri Lanka,Pallekele,SOUTHAFRICA,3
+12-Jul-14,ODI # 3502,lost,82 runs,lost,2nd, South Africa,Hambantota,SRILANKA,8
+12-Jul-14,ODI # 3502,won,82 runs,won,1st, Sri Lanka,Hambantota,SOUTHAFRICA,3
+18-Jul-14,ODI # 3503,lost,6 wickets,lost,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+20-Jul-14,ODI # 3504,lost,8 wickets,lost,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+22-Jul-14,ODI # 3505,won,2 wickets,won,2nd, Zimbabwe,Bulawayo,AFGHANISTAN,40
+24-Jul-14,ODI # 3506,won,100 runs,lost,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+17-Aug-14,ODI # 3507,won,93 runs,lost,1st, Zimbabwe,Bulawayo,SOUTHAFRICA,3
+19-Aug-14,ODI # 3508,won,61 runs,lost,1st, Zimbabwe,Bulawayo,SOUTHAFRICA,3
+20-Aug-14,ODI # 3509,won,3 wickets,won,2nd, Bangladesh,St George's,WESTINDIES,4
+20-Aug-14,ODI # 3509,lost,3 wickets,lost,1st, West Indies,St George's,BANGLADESH,25
+21-Aug-14,ODI # 3510,won,7 wickets,won,2nd, Zimbabwe,Bulawayo,SOUTHAFRICA,3
+22-Aug-14,ODI # 3511,won,177 runs,lost,1st, Bangladesh,St George's,WESTINDIES,4
+22-Aug-14,ODI # 3511,lost,177 runs,won,2nd, West Indies,St George's,BANGLADESH,25
+23-Aug-14,ODI # 3512,lost,4 wickets,lost,1st, Pakistan,Hambantota,SRILANKA,8
+23-Aug-14,ODI # 3512,won,4 wickets,won,2nd, Sri Lanka,Hambantota,PAKISTAN,7
+25-Aug-14,ODI # 3513,won,198 runs,lost,1st, Zimbabwe,Harare,AUSTRALIA,2
+25-Aug-14,ODI # 3514,won,91 runs,won,1st, Bangladesh,Basseterre,WESTINDIES,4
+25-Aug-14,ODI # 3514,lost,91 runs,lost,2nd, West Indies,Basseterre,BANGLADESH,25
+26-Aug-14,ODI # 3515,won,77 runs,won,1st, Pakistan,Hambantota,SRILANKA,8
+26-Aug-14,ODI # 3515,lost,77 runs,lost,2nd, Sri Lanka,Hambantota,PAKISTAN,7
+27-Aug-14,ODI # 3516,won,7 wickets,won,2nd, Australia,Harare,SOUTHAFRICA,3
+27-Aug-14,ODI # 3516,lost,7 wickets,lost,1st, South Africa,Harare,AUSTRALIA,2
+27-Aug-14,ODI # 3517,won,133 runs,lost,1st, England,Cardiff,INDIA,6
+27-Aug-14,ODI # 3517,lost,133 runs,won,2nd, India,Cardiff,ENGLAND,1
+29-Aug-14,ODI # 3518,won,61 runs,lost,1st, Zimbabwe,Harare,SOUTHAFRICA,3
+30-Aug-14,ODI # 3519,won,7 wickets,lost,2nd, Pakistan,Dambulla,SRILANKA,8
+30-Aug-14,ODI # 3519,lost,7 wickets,won,1st, Sri Lanka,Dambulla,PAKISTAN,7
+30-Aug-14,ODI # 3520,won,6 wickets,won,2nd, England,Nottingham,INDIA,6
+30-Aug-14,ODI # 3520,lost,6 wickets,lost,1st, India,Nottingham,ENGLAND,1
+31-Aug-14,ODI # 3521,lost,3 wickets,won,1st, Zimbabwe,Harare,AUSTRALIA,2
+2-Sep-14,ODI # 3522,lost,62 runs,won,2nd, Australia,Harare,SOUTHAFRICA,3
+2-Sep-14,ODI # 3522,won,62 runs,lost,1st, South Africa,Harare,AUSTRALIA,2
+2-Sep-14,ODI # 3523,won,9 wickets,won,2nd, England,Birmingham,INDIA,6
+2-Sep-14,ODI # 3523,lost,9 wickets,lost,1st, India,Birmingham,ENGLAND,1
+4-Sep-14,ODI # 3524,won,63 runs,lost,1st, Zimbabwe,Harare,SOUTHAFRICA,3
+5-Sep-14,ODI # 3525,lost,41 runs,won,2nd, England,Leeds,INDIA,6
+5-Sep-14,ODI # 3525,won,41 runs,lost,1st, India,Leeds,ENGLAND,1
+6-Sep-14,ODI # 3526,won,6 wickets,won,2nd, Australia,Harare,SOUTHAFRICA,3
+6-Sep-14,ODI # 3526,lost,6 wickets,lost,1st, South Africa,Harare,AUSTRALIA,2
+7-Oct-14,ODI # 3530,lost,93 runs,lost,2nd, Australia,Sharjah,PAKISTAN,7
+7-Oct-14,ODI # 3530,won,93 runs,won,1st, Pakistan,Sharjah,AUSTRALIA,2
+8-Oct-14,ODI # 3531,won,124 runs,lost,1st, India,Kochi,WESTINDIES,4
+8-Oct-14,ODI # 3531,lost,124 runs,won,2nd, West Indies,Kochi,INDIA,6
+10-Oct-14,ODI # 3532,lost,5 wickets,won,1st, Australia,Dubai (DSC),PAKISTAN,7
+10-Oct-14,ODI # 3532,won,5 wickets,lost,2nd, Pakistan,Dubai (DSC),AUSTRALIA,2
+11-Oct-14,ODI # 3533,lost,48 runs,lost,2nd, India,Delhi,WESTINDIES,4
+11-Oct-14,ODI # 3533,won,48 runs,won,1st, West Indies,Delhi,INDIA,6
+12-Oct-14,ODI # 3534,lost,1 runs,lost,2nd, Australia,Abu Dhabi,PAKISTAN,7
+12-Oct-14,ODI # 3534,won,1 runs,won,1st, Pakistan,Abu Dhabi,AUSTRALIA,2
+17-Oct-14,ODI # 3535,lost,59 runs,won,2nd, India,Dharamsala,WESTINDIES,4
+17-Oct-14,ODI # 3535,won,59 runs,lost,1st, West Indies,Dharamsala,INDIA,6
+21-Oct-14,ODI # 3536,won,6 wickets,won,2nd, New Zealand,Mount Maunganui,SOUTHAFRICA,3
+21-Oct-14,ODI # 3536,lost,6 wickets,lost,1st, South Africa,Mount Maunganui,NEWZEALAD,5
+24-Oct-14,ODI # 3537,won,72 runs,lost,1st, New Zealand,Mount Maunganui,SOUTHAFRICA,3
+24-Oct-14,ODI # 3537,lost,72 runs,won,2nd, South Africa,Mount Maunganui,NEWZEALAD,5
+2-Nov-14,ODI # 3539,lost,169 runs,won,2nd, India,Cuttack,SRILANKA,8
+2-Nov-14,ODI # 3539,won,169 runs,lost,1st, Sri Lanka,Cuttack,INDIA,6
+6-Nov-14,ODI # 3540,lost,6 wickets,won,1st, India,Ahmedabad,SRILANKA,8
+6-Nov-14,ODI # 3540,won,6 wickets,lost,2nd, Sri Lanka,Ahmedabad,INDIA,6
+9-Nov-14,ODI # 3543,lost,6 wickets,won,1st, India,Hyderabad (Deccan),SRILANKA,8
+9-Nov-14,ODI # 3543,won,6 wickets,lost,2nd, Sri Lanka,Hyderabad (Deccan),INDIA,6
+13-Nov-14,ODI # 3544,lost,153 runs,lost,2nd, India,Kolkata,SRILANKA,8
+13-Nov-14,ODI # 3544,won,153 runs,won,1st, Sri Lanka,Kolkata,INDIA,6
+14-Nov-14,ODI # 3545,lost,32 runs,won,2nd, Australia,Perth,SOUTHAFRICA,3
+14-Nov-14,ODI # 3545,won,32 runs,lost,1st, South Africa,Perth,AUSTRALIA,2
+16-Nov-14,ODI # 3546,won,3 wickets,lost,2nd, Australia,Perth,SOUTHAFRICA,3
+16-Nov-14,ODI # 3546,lost,3 wickets,won,1st, South Africa,Perth,AUSTRALIA,2
+16-Nov-14,ODI # 3547,lost,3 wickets,won,1st, India,Ranchi,SRILANKA,8
+16-Nov-14,ODI # 3547,won,3 wickets,lost,2nd, Sri Lanka,Ranchi,INDIA,6
+19-Nov-14,ODI # 3548,lost,73 runs,lost,2nd, Australia,Canberra,SOUTHAFRICA,3
+19-Nov-14,ODI # 3548,won,73 runs,won,1st, South Africa,Canberra,AUSTRALIA,2
+21-Nov-14,ODI # 3549,lost,3 wickets,won,1st, Australia,Melbourne,SOUTHAFRICA,3
+21-Nov-14,ODI # 3549,won,3 wickets,lost,2nd, South Africa,Melbourne,AUSTRALIA,2
+21-Nov-14,ODI # 3550,won,87 runs,lost,1st, Zimbabwe,Chattogram,BANGLADESH,25
+23-Nov-14,ODI # 3551,lost,2 wickets,won,1st, Australia,Sydney,SOUTHAFRICA,3
+23-Nov-14,ODI # 3551,won,2 wickets,lost,2nd, South Africa,Sydney,AUSTRALIA,2
+23-Nov-14,ODI # 3552,won,68 runs,won,1st, Zimbabwe,Chattogram,BANGLADESH,25
+26-Nov-14,ODI # 3553,won,124 runs,lost,1st, Zimbabwe,Dhaka,BANGLADESH,25
+26-Nov-14,ODI # 3554,won,25 runs,lost,1st, England,Colombo (RPS),SRILANKA,8
+26-Nov-14,ODI # 3554,lost,25 runs,won,2nd, Sri Lanka,Colombo (RPS),ENGLAND,1
+28-Nov-14,ODI # 3555,won,21 runs,won,1st, Zimbabwe,Dhaka,BANGLADESH,25
+28-Nov-14,ODI # 3556,lost,5 wickets,won,1st, U.A.E.,ICCA Dubai,AFGHANISTAN,40
+29-Nov-14,ODI # 3557,won,8 wickets,lost,2nd, England,Colombo (RPS),SRILANKA,8
+29-Nov-14,ODI # 3557,lost,8 wickets,won,1st, Sri Lanka,Colombo (RPS),ENGLAND,1
+30-Nov-14,ODI # 3558,lost,6 wickets,lost,1st, U.A.E.,ICCA Dubai,AFGHANISTAN,40
+1-Dec-14,ODI # 3559,won,5 wickets,lost,2nd, Zimbabwe,Dhaka,BANGLADESH,25
+2-Dec-14,ODI # 3560,won,2 wickets,won,2nd, U.A.E.,ICCA Dubai,AFGHANISTAN,40
+3-Dec-14,ODI # 3561,lost,5 wickets,won,1st, England,Hambantota,SRILANKA,8
+3-Dec-14,ODI # 3561,won,5 wickets,lost,2nd, Sri Lanka,Hambantota,ENGLAND,1
+4-Dec-14,ODI # 3562,lost,30 runs,won,2nd, U.A.E.,ICCA Dubai,AFGHANISTAN,40
+7-Dec-14,ODI # 3563,won,6 wickets,lost,2nd, England,Colombo (RPS),SRILANKA,8
+7-Dec-14,ODI # 3563,lost,6 wickets,won,1st, Sri Lanka,Colombo (RPS),ENGLAND,1
+8-Dec-14,ODI # 3564,won,3 wickets,won,2nd, New Zealand,Dubai (DSC),PAKISTAN,7
+8-Dec-14,ODI # 3564,lost,3 wickets,lost,1st, Pakistan,Dubai (DSC),NEWZEALAD,5
+10-Dec-14,ODI # 3565,lost,5 wickets,lost,1st, England,Pallekele,SRILANKA,8
+10-Dec-14,ODI # 3565,won,5 wickets,won,2nd, Sri Lanka,Pallekele,ENGLAND,1
+12-Dec-14,ODI # 3566,lost,4 wickets,won,1st, New Zealand,Sharjah,PAKISTAN,7
+12-Dec-14,ODI # 3566,won,4 wickets,lost,2nd, Pakistan,Sharjah,NEWZEALAD,5
+13-Dec-14,ODI # 3567,won,90 runs,won,1st, England,Pallekele,SRILANKA,8
+13-Dec-14,ODI # 3567,lost,90 runs,lost,2nd, Sri Lanka,Pallekele,ENGLAND,1
+14-Dec-14,ODI # 3568,won,147 runs,won,1st, New Zealand,Sharjah,PAKISTAN,7
+14-Dec-14,ODI # 3568,lost,147 runs,lost,2nd, Pakistan,Sharjah,NEWZEALAD,5
+16-Dec-14,ODI # 3569,won,87 runs,won,1st, England,Colombo (RPS),SRILANKA,8
+16-Dec-14,ODI # 3569,lost,87 runs,lost,2nd, Sri Lanka,Colombo (RPS),ENGLAND,1
+17-Dec-14,ODI # 3570,lost,7 runs,lost,2nd, New Zealand,Abu Dhabi,PAKISTAN,7
+17-Dec-14,ODI # 3570,won,7 runs,won,1st, Pakistan,Abu Dhabi,NEWZEALAD,5
+19-Dec-14,ODI # 3571,lost,68 runs,lost,2nd, New Zealand,Abu Dhabi,PAKISTAN,7
+19-Dec-14,ODI # 3571,won,68 runs,won,1st, Pakistan,Abu Dhabi,NEWZEALAD,5
+8-Jan-15,ODI # 3572,won,8 wickets,won,2nd, Scotland,ICCA Dubai,AFGHANISTAN,40
+10-Jan-15,ODI # 3573,lost,3 wickets,lost,1st, Ireland,Dubai (DSC),AFGHANISTAN,40
+11-Jan-15,ODI # 3574,lost,3 wickets,won,1st, New Zealand,Christchurch,SRILANKA,8
+11-Jan-15,ODI # 3574,won,3 wickets,lost,2nd, Sri Lanka,Christchurch,NEWZEALAD,5
+14-Jan-15,ODI # 3576,lost,150 runs,lost,2nd, Scotland,Abu Dhabi,AFGHANISTAN,40
+15-Jan-15,ODI # 3577,won,6 wickets,lost,2nd, New Zealand,Hamilton,SRILANKA,8
+15-Jan-15,ODI # 3577,lost,6 wickets,won,1st, Sri Lanka,Hamilton,NEWZEALAD,5
+16-Jan-15,ODI # 3578,lost,3 wickets,won,1st, Australia,Sydney,ENGLAND,1
+16-Jan-15,ODI # 3578,won,3 wickets,lost,2nd, England,Sydney,AUSTRALIA,2
+16-Jan-15,ODI # 3579,lost,61 runs,lost,2nd, South Africa,Durban,WESTINDIES,4
+16-Jan-15,ODI # 3579,won,61 runs,won,1st, West Indies,Durban,SOUTHAFRICA,3
+17-Jan-15,ODI # 3581,won,71 runs,lost,1st, Ireland,Dubai (DSC),AFGHANISTAN,40
+18-Jan-15,ODI # 3582,lost,4 wickets,won,1st, Australia,Melbourne,INDIA,6
+18-Jan-15,ODI # 3582,won,4 wickets,lost,2nd, India,Melbourne,AUSTRALIA,2
+18-Jan-15,ODI # 3583,lost,148 runs,won,2nd, South Africa,Johannesburg,WESTINDIES,4
+18-Jan-15,ODI # 3583,won,148 runs,lost,1st, West Indies,Johannesburg,SOUTHAFRICA,3
+20-Jan-15,ODI # 3585,lost,4 wickets,won,1st, New Zealand,Nelson,SRILANKA,8
+20-Jan-15,ODI # 3585,won,4 wickets,lost,2nd, Sri Lanka,Nelson,NEWZEALAD,5
+20-Jan-15,ODI # 3586,lost,9 wickets,won,1st, England,Brisbane,INDIA,6
+20-Jan-15,ODI # 3586,won,9 wickets,lost,2nd, India,Brisbane,ENGLAND,1
+21-Jan-15,ODI # 3587,lost,9 wickets,won,1st, South Africa,East London,WESTINDIES,4
+21-Jan-15,ODI # 3587,won,9 wickets,lost,2nd, West Indies,East London,SOUTHAFRICA,3
+23-Jan-15,ODI # 3588,lost,108 runs,won,2nd, New Zealand,Dunedin,SRILANKA,8
+23-Jan-15,ODI # 3588,won,108 runs,lost,1st, Sri Lanka,Dunedin,NEWZEALAD,5
+23-Jan-15,ODI # 3589,lost,3 wickets,lost,1st, Australia,Hobart,ENGLAND,1
+23-Jan-15,ODI # 3589,won,3 wickets,won,2nd, England,Hobart,AUSTRALIA,2
+25-Jan-15,ODI # 3590,lost,120 runs,lost,2nd, New Zealand,Dunedin,SRILANKA,8
+25-Jan-15,ODI # 3590,won,120 runs,won,1st, Sri Lanka,Dunedin,NEWZEALAD,5
+25-Jan-15,ODI # 3591,won,1 wickets,won,2nd, South Africa,Port Elizabeth,WESTINDIES,4
+25-Jan-15,ODI # 3591,lost,1 wickets,lost,1st, West Indies,Port Elizabeth,SOUTHAFRICA,3
+28-Jan-15,ODI # 3593,lost,131 runs,won,2nd, South Africa,Centurion,WESTINDIES,4
+28-Jan-15,ODI # 3593,won,131 runs,lost,1st, West Indies,Centurion,SOUTHAFRICA,3
+29-Jan-15,ODI # 3594,won,34 runs,won,1st, New Zealand,Wellington,SRILANKA,8
+29-Jan-15,ODI # 3594,lost,34 runs,lost,2nd, Sri Lanka,Wellington,NEWZEALAD,5
+30-Jan-15,ODI # 3595,lost,3 wickets,lost,1st, England,Perth,INDIA,6
+30-Jan-15,ODI # 3595,won,3 wickets,won,2nd, India,Perth,ENGLAND,1
+31-Jan-15,ODI # 3596,lost,7 wickets,lost,1st, New Zealand,Wellington,PAKISTAN,7
+31-Jan-15,ODI # 3596,won,7 wickets,won,2nd, Pakistan,Wellington,NEWZEALAD,5
+1-Feb-15,ODI # 3597,lost,112 runs,won,2nd, Australia,Perth,ENGLAND,1
+1-Feb-15,ODI # 3597,won,112 runs,lost,1st, England,Perth,AUSTRALIA,2
+3-Feb-15,ODI # 3598,lost,119 runs,lost,2nd, New Zealand,Napier,PAKISTAN,7
+3-Feb-15,ODI # 3598,won,119 runs,won,1st, Pakistan,Napier,NEWZEALAD,5
+14-Feb-15,ODI # 3599,lost,98 runs,won,2nd, New Zealand,Christchurch,SRILANKA,8
+14-Feb-15,ODI # 3599,won,98 runs,lost,1st, Sri Lanka,Christchurch,NEWZEALAD,5
+14-Feb-15,ODI # 3600,lost,111 runs,won,2nd, Australia,Melbourne,ENGLAND,1
+14-Feb-15,ODI # 3600,won,111 runs,lost,1st, England,Melbourne,AUSTRALIA,2
+15-Feb-15,ODI # 3601,won,62 runs,lost,1st, Zimbabwe,Hamilton,SOUTHAFRICA,3
+15-Feb-15,ODI # 3602,lost,76 runs,lost,2nd, India,Adelaide,PAKISTAN,7
+15-Feb-15,ODI # 3602,won,76 runs,won,1st, Pakistan,Adelaide,INDIA,6
+16-Feb-15,ODI # 3603,lost,4 wickets,lost,1st, Ireland,Nelson,WESTINDIES,4
+17-Feb-15,ODI # 3604,won,3 wickets,won,2nd, Scotland,Dunedin,NEWZEALAD,5
+18-Feb-15,ODI # 3605,won,105 runs,won,1st, Afghanistan,Canberra,BANGLADESH,25
+18-Feb-15,ODI # 3605,lost,105 runs,lost,2nd, Bangladesh,Canberra,AFGHANISTAN,40
+20-Feb-15,ODI # 3607,won,8 wickets,lost,2nd, England,Wellington,NEWZEALAD,5
+20-Feb-15,ODI # 3607,lost,8 wickets,won,1st, New Zealand,Wellington,ENGLAND,1
+21-Feb-15,ODI # 3608,won,150 runs,lost,1st, Pakistan,Christchurch,WESTINDIES,4
+21-Feb-15,ODI # 3608,lost,150 runs,won,2nd, West Indies,Christchurch,PAKISTAN,7
+22-Feb-15,ODI # 3609,won,4 wickets,won,2nd, Afghanistan,Dunedin,SRILANKA,8
+22-Feb-15,ODI # 3609,lost,4 wickets,lost,1st, Sri Lanka,Dunedin,AFGHANISTAN,40
+22-Feb-15,ODI # 3610,lost,130 runs,lost,2nd, India,Melbourne,SOUTHAFRICA,3
+22-Feb-15,ODI # 3610,won,130 runs,won,1st, South Africa,Melbourne,INDIA,6
+23-Feb-15,ODI # 3611,won,119 runs,lost,1st, Scotland,Christchurch,ENGLAND,1
+24-Feb-15,ODI # 3612,won,73 runs,won,1st, Zimbabwe,Canberra,WESTINDIES,4
+26-Feb-15,ODI # 3614,won,1 wickets,won,2nd, Scotland,Dunedin,AFGHANISTAN,40
+26-Feb-15,ODI # 3615,won,92 runs,won,1st, Bangladesh,Melbourne,SRILANKA,8
+26-Feb-15,ODI # 3615,lost,92 runs,lost,2nd, Sri Lanka,Melbourne,BANGLADESH,25
+27-Feb-15,ODI # 3616,lost,257 runs,lost,2nd, South Africa,Sydney,WESTINDIES,4
+27-Feb-15,ODI # 3616,won,257 runs,won,1st, West Indies,Sydney,SOUTHAFRICA,3
+28-Feb-15,ODI # 3617,won,1 wickets,lost,2nd, Australia,Auckland,NEWZEALAD,5
+28-Feb-15,ODI # 3617,lost,1 wickets,won,1st, New Zealand,Auckland,AUSTRALIA,2
+28-Feb-15,ODI # 3618,won,9 wickets,lost,2nd, U.A.E.,Perth,INDIA,6
+1-Mar-15,ODI # 3619,won,9 wickets,lost,2nd, England,Wellington,SRILANKA,8
+1-Mar-15,ODI # 3619,lost,9 wickets,won,1st, Sri Lanka,Wellington,ENGLAND,1
+1-Mar-15,ODI # 3620,won,20 runs,won,1st, Zimbabwe,Brisbane,PAKISTAN,7
+3-Mar-15,ODI # 3621,won,201 runs,won,1st, Ireland,Canberra,SOUTHAFRICA,3
+4-Mar-15,ODI # 3622,won,129 runs,lost,1st, U.A.E.,Napier,PAKISTAN,7
+4-Mar-15,ODI # 3623,won,275 runs,lost,1st, Afghanistan,Perth,AUSTRALIA,2
+4-Mar-15,ODI # 3623,lost,275 runs,won,2nd, Australia,Perth,AFGHANISTAN,40
+5-Mar-15,ODI # 3624,won,6 wickets,won,2nd, Scotland,Nelson,BANGLADESH,25
+6-Mar-15,ODI # 3625,lost,4 wickets,won,1st, India,Perth,WESTINDIES,4
+6-Mar-15,ODI # 3625,won,4 wickets,lost,2nd, West Indies,Perth,INDIA,6
+7-Mar-15,ODI # 3626,lost,29 runs,won,2nd, Pakistan,Auckland,SOUTHAFRICA,3
+7-Mar-15,ODI # 3626,won,29 runs,lost,1st, South Africa,Auckland,PAKISTAN,7
+8-Mar-15,ODI # 3628,won,6 wickets,lost,2nd, Afghanistan,Napier,NEWZEALAD,5
+8-Mar-15,ODI # 3628,lost,6 wickets,won,1st, New Zealand,Napier,AFGHANISTAN,40
+8-Mar-15,ODI # 3629,lost,64 runs,lost,2nd, Australia,Sydney,SRILANKA,8
+8-Mar-15,ODI # 3629,won,64 runs,won,1st, Sri Lanka,Sydney,AUSTRALIA,2
+9-Mar-15,ODI # 3630,lost,15 runs,won,2nd, Bangladesh,Adelaide,ENGLAND,1
+9-Mar-15,ODI # 3630,won,15 runs,lost,1st, England,Adelaide,BANGLADESH,25
+10-Mar-15,ODI # 3631,won,8 wickets,lost,2nd, Ireland,Hamilton,INDIA,6
+11-Mar-15,ODI # 3632,won,148 runs,won,1st, Scotland,Hobart,SRILANKA,8
+12-Mar-15,ODI # 3633,won,146 runs,lost,1st, U.A.E.,Wellington,SOUTHAFRICA,3
+13-Mar-15,ODI # 3634,won,3 wickets,won,2nd, Bangladesh,Hamilton,NEWZEALAD,5
+13-Mar-15,ODI # 3634,lost,3 wickets,lost,1st, New Zealand,Hamilton,BANGLADESH,25
+13-Mar-15,ODI # 3635,won,9 wickets,won,2nd, Afghanistan,Sydney,ENGLAND,1
+13-Mar-15,ODI # 3635,lost,9 wickets,lost,1st, England,Sydney,AFGHANISTAN,40
+14-Mar-15,ODI # 3636,won,6 wickets,won,2nd, Zimbabwe,Auckland,INDIA,6
+14-Mar-15,ODI # 3637,won,7 wickets,won,2nd, Scotland,Hobart,AUSTRALIA,2
+15-Mar-15,ODI # 3638,won,6 wickets,won,2nd, U.A.E.,Napier,WESTINDIES,4
+15-Mar-15,ODI # 3639,won,7 wickets,lost,2nd, Ireland,Adelaide,PAKISTAN,7
+18-Mar-15,ODI # 3640,lost,9 wickets,won,1st, South Africa,Sydney,SRILANKA,8
+18-Mar-15,ODI # 3640,won,9 wickets,lost,2nd, Sri Lanka,Sydney,SOUTHAFRICA,3
+19-Mar-15,ODI # 3641,won,109 runs,won,1st, Bangladesh,Melbourne,INDIA,6
+19-Mar-15,ODI # 3641,lost,109 runs,lost,2nd, India,Melbourne,BANGLADESH,25
+20-Mar-15,ODI # 3642,lost,6 wickets,won,1st, Australia,Adelaide,PAKISTAN,7
+20-Mar-15,ODI # 3642,won,6 wickets,lost,2nd, Pakistan,Adelaide,AUSTRALIA,2
+21-Mar-15,ODI # 3643,lost,143 runs,lost,2nd, New Zealand,Wellington,WESTINDIES,4
+21-Mar-15,ODI # 3643,won,143 runs,won,1st, West Indies,Wellington,NEWZEALAD,5
+24-Mar-15,ODI # 3644,lost,4 wickets,won,1st, New Zealand,Auckland,SOUTHAFRICA,3
+24-Mar-15,ODI # 3644,won,4 wickets,lost,2nd, South Africa,Auckland,NEWZEALAD,5
+26-Mar-15,ODI # 3645,lost,95 runs,lost,2nd, Australia,Sydney,INDIA,6
+26-Mar-15,ODI # 3645,won,95 runs,won,1st, India,Sydney,AUSTRALIA,2
+29-Mar-15,ODI # 3646,lost,7 wickets,won,1st, Australia,Melbourne,NEWZEALAD,5
+29-Mar-15,ODI # 3646,won,7 wickets,lost,2nd, New Zealand,Melbourne,AUSTRALIA,2
+17-Apr-15,ODI # 3647,lost,79 runs,lost,2nd, Bangladesh,Dhaka,PAKISTAN,7
+17-Apr-15,ODI # 3647,won,79 runs,won,1st, Pakistan,Dhaka,BANGLADESH,25
+19-Apr-15,ODI # 3648,lost,7 wickets,won,1st, Bangladesh,Dhaka,PAKISTAN,7
+19-Apr-15,ODI # 3648,won,7 wickets,lost,2nd, Pakistan,Dhaka,BANGLADESH,25
+22-Apr-15,ODI # 3649,lost,8 wickets,won,1st, Bangladesh,Dhaka,PAKISTAN,7
+22-Apr-15,ODI # 3649,won,8 wickets,lost,2nd, Pakistan,Dhaka,BANGLADESH,25
+26-May-15,ODI # 3651,won,41 runs,won,1st, Zimbabwe,Lahore,PAKISTAN,7
+29-May-15,ODI # 3652,won,6 wickets,won,2nd, Zimbabwe,Lahore,PAKISTAN,7
+9-Jun-15,ODI # 3654,lost,210 runs,won,2nd, England,Birmingham,NEWZEALAD,5
+9-Jun-15,ODI # 3654,won,210 runs,lost,1st, New Zealand,Birmingham,ENGLAND,1
+12-Jun-15,ODI # 3655,won,13 runs,won,1st, England,The Oval,NEWZEALAD,5
+12-Jun-15,ODI # 3655,lost,13 runs,lost,2nd, New Zealand,The Oval,ENGLAND,1
+14-Jun-15,ODI # 3656,won,3 wickets,lost,2nd, England,Southampton,NEWZEALAD,5
+14-Jun-15,ODI # 3656,lost,3 wickets,won,1st, New Zealand,Southampton,ENGLAND,1
+17-Jun-15,ODI # 3657,lost,7 wickets,won,1st, England,Nottingham,NEWZEALAD,5
+17-Jun-15,ODI # 3657,won,7 wickets,lost,2nd, New Zealand,Nottingham,ENGLAND,1
+18-Jun-15,ODI # 3658,lost,79 runs,lost,2nd, Bangladesh,Dhaka,INDIA,6
+18-Jun-15,ODI # 3658,won,79 runs,won,1st, India,Dhaka,BANGLADESH,25
+20-Jun-15,ODI # 3659,lost,3 wickets,lost,1st, England,Chester-le-Street,NEWZEALAD,5
+20-Jun-15,ODI # 3659,won,3 wickets,won,2nd, New Zealand,Chester-le-Street,ENGLAND,1
+21-Jun-15,ODI # 3660,lost,6 wickets,won,1st, Bangladesh,Dhaka,INDIA,6
+21-Jun-15,ODI # 3660,won,6 wickets,lost,2nd, India,Dhaka,BANGLADESH,25
+24-Jun-15,ODI # 3661,won,77 runs,lost,1st, Bangladesh,Dhaka,INDIA,6
+24-Jun-15,ODI # 3661,lost,77 runs,won,2nd, India,Dhaka,BANGLADESH,25
+10-Jul-15,ODI # 3662,won,4 runs,lost,1st, Zimbabwe,Harare,INDIA,6
+10-Jul-15,ODI # 3663,won,8 wickets,lost,2nd, Bangladesh,Dhaka,SOUTHAFRICA,3
+10-Jul-15,ODI # 3663,lost,8 wickets,won,1st, South Africa,Dhaka,BANGLADESH,25
+11-Jul-15,ODI # 3664,lost,6 wickets,lost,1st, Pakistan,Dambulla,SRILANKA,8
+11-Jul-15,ODI # 3664,won,6 wickets,won,2nd, Sri Lanka,Dambulla,PAKISTAN,7
+12-Jul-15,ODI # 3665,won,62 runs,lost,1st, Zimbabwe,Harare,INDIA,6
+12-Jul-15,ODI # 3666,lost,7 wickets,won,1st, Bangladesh,Dhaka,SOUTHAFRICA,3
+12-Jul-15,ODI # 3666,won,7 wickets,lost,2nd, South Africa,Dhaka,BANGLADESH,25
+14-Jul-15,ODI # 3667,won,83 runs,lost,1st, Zimbabwe,Harare,INDIA,6
+15-Jul-15,ODI # 3668,lost,9 wickets,won,1st, Bangladesh,Chattogram,SOUTHAFRICA,3
+15-Jul-15,ODI # 3668,won,9 wickets,lost,2nd, South Africa,Chattogram,BANGLADESH,25
+15-Jul-15,ODI # 3669,won,2 wickets,lost,2nd, Pakistan,Pallekele,SRILANKA,8
+15-Jul-15,ODI # 3669,lost,2 wickets,won,1st, Sri Lanka,Pallekele,PAKISTAN,7
+19-Jul-15,ODI # 3670,lost,135 runs,lost,2nd, Pakistan,Colombo (RPS),SRILANKA,8
+19-Jul-15,ODI # 3670,won,135 runs,won,1st, Sri Lanka,Colombo (RPS),PAKISTAN,7
+22-Jul-15,ODI # 3671,lost,7 wickets,won,1st, Pakistan,Colombo (RPS),SRILANKA,8
+22-Jul-15,ODI # 3671,won,7 wickets,lost,2nd, Sri Lanka,Colombo (RPS),PAKISTAN,7
+26-Jul-15,ODI # 3672,won,165 runs,won,1st, Pakistan,Hambantota,SRILANKA,8
+26-Jul-15,ODI # 3672,lost,165 runs,lost,2nd, Sri Lanka,Hambantota,PAKISTAN,7
+2-Aug-15,ODI # 3673,lost,7 wickets,lost,1st, Zimbabwe,Harare,NEWZEALAD,5
+4-Aug-15,ODI # 3674,won,10 wickets,lost,2nd, Zimbabwe,Harare,NEWZEALAD,5
+7-Aug-15,ODI # 3675,won,38 runs,lost,1st, Zimbabwe,Harare,NEWZEALAD,5
+19-Aug-15,ODI # 3676,won,20 runs,lost,1st, New Zealand,Centurion,SOUTHAFRICA,3
+19-Aug-15,ODI # 3676,lost,20 runs,won,2nd, South Africa,Centurion,NEWZEALAD,5
+23-Aug-15,ODI # 3677,lost,8 wickets,won,1st, New Zealand,Potchefstroom,SOUTHAFRICA,3
+23-Aug-15,ODI # 3677,won,8 wickets,lost,2nd, South Africa,Potchefstroom,NEWZEALAD,5
+26-Aug-15,ODI # 3678,won,62 runs,won,1st, New Zealand,Durban,SOUTHAFRICA,3
+26-Aug-15,ODI # 3678,lost,62 runs,lost,2nd, South Africa,Durban,NEWZEALAD,5
+27-Aug-15,ODI # 3679,won,23 runs,won,1st, Ireland,Belfast,AUSTRALIA,2
+3-Sep-15,ODI # 3680,lost,59 runs,lost,2nd, Australia,Southampton,ENGLAND,1
+3-Sep-15,ODI # 3680,won,59 runs,won,1st, England,Southampton,AUSTRALIA,2
+5-Sep-15,ODI # 3681,lost,64 runs,won,2nd, Australia,Lord's,ENGLAND,1
+5-Sep-15,ODI # 3681,won,64 runs,lost,1st, England,Lord's,AUSTRALIA,2
+8-Sep-15,ODI # 3682,won,93 runs,won,1st, Australia,Manchester,ENGLAND,1
+8-Sep-15,ODI # 3682,lost,93 runs,lost,2nd, England,Manchester,AUSTRALIA,2
+11-Sep-15,ODI # 3683,won,3 wickets,lost,2nd, Australia,Leeds,ENGLAND,1
+11-Sep-15,ODI # 3683,lost,3 wickets,won,1st, England,Leeds,AUSTRALIA,2
+13-Sep-15,ODI # 3684,lost,8 wickets,won,1st, Australia,Manchester,ENGLAND,1
+13-Sep-15,ODI # 3684,won,8 wickets,lost,2nd, England,Manchester,AUSTRALIA,2
+1-Oct-15,ODI # 3685,won,131 runs,lost,1st, Zimbabwe,Harare,PAKISTAN,7
+3-Oct-15,ODI # 3686,lost,5 runs,won,2nd, Zimbabwe,Harare,PAKISTAN,7
+5-Oct-15,ODI # 3687,won,7 wickets,won,2nd, Zimbabwe,Harare,PAKISTAN,7
+11-Oct-15,ODI # 3689,won,5 runs,won,1st, India,Kanpur,SOUTHAFRICA,3
+11-Oct-15,ODI # 3689,lost,5 runs,lost,2nd, South Africa,Kanpur,INDIA,6
+14-Oct-15,ODI # 3692,lost,22 runs,lost,2nd, India,Indore,SOUTHAFRICA,3
+14-Oct-15,ODI # 3692,won,22 runs,won,1st, South Africa,Indore,INDIA,6
+16-Oct-15,ODI # 3693,lost,8 wickets,won,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+18-Oct-15,ODI # 3694,won,58 runs,won,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+18-Oct-15,ODI # 3695,won,18 runs,won,1st, India,Rajkot,SOUTHAFRICA,3
+18-Oct-15,ODI # 3695,lost,18 runs,lost,2nd, South Africa,Rajkot,INDIA,6
+20-Oct-15,ODI # 3696,lost,6 wickets,won,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+22-Oct-15,ODI # 3697,won,3 wickets,lost,2nd, Zimbabwe,Bulawayo,AFGHANISTAN,40
+22-Oct-15,ODI # 3698,lost,35 runs,lost,2nd, India,Chennai,SOUTHAFRICA,3
+22-Oct-15,ODI # 3698,won,35 runs,won,1st, South Africa,Chennai,INDIA,6
+24-Oct-15,ODI # 3699,won,73 runs,lost,1st, Zimbabwe,Bulawayo,AFGHANISTAN,40
+25-Oct-15,ODI # 3700,won,214 runs,won,1st, India,Mumbai,SOUTHAFRICA,3
+25-Oct-15,ODI # 3700,lost,214 runs,lost,2nd, South Africa,Mumbai,INDIA,6
+1-Nov-15,ODI # 3701,lost,1 wickets,lost,1st, Sri Lanka,Colombo (RPS),WESTINDIES,4
+1-Nov-15,ODI # 3701,won,1 wickets,won,2nd, West Indies,Colombo (RPS),SRILANKA,8
+4-Nov-15,ODI # 3702,lost,8 wickets,won,1st, Sri Lanka,Colombo (RPS),WESTINDIES,4
+4-Nov-15,ODI # 3702,won,8 wickets,lost,2nd, West Indies,Colombo (RPS),SRILANKA,8
+7-Nov-15,ODI # 3703,won,145 runs,lost,1st, Zimbabwe,Dhaka,BANGLADESH,25
+7-Nov-15,ODI # 3704,lost,19 runs,lost,1st, Sri Lanka,Pallekele,WESTINDIES,4
+7-Nov-15,ODI # 3704,won,19 runs,won,2nd, West Indies,Pallekele,SRILANKA,8
+9-Nov-15,ODI # 3705,won,58 runs,lost,1st, Zimbabwe,Dhaka,BANGLADESH,25
+11-Nov-15,ODI # 3706,won,61 runs,won,1st, Zimbabwe,Dhaka,BANGLADESH,25
+11-Nov-15,ODI # 3707,won,6 wickets,lost,2nd, England,Abu Dhabi,PAKISTAN,7
+11-Nov-15,ODI # 3707,lost,6 wickets,won,1st, Pakistan,Abu Dhabi,ENGLAND,1
+13-Nov-15,ODI # 3708,lost,95 runs,lost,2nd, England,Abu Dhabi,PAKISTAN,7
+13-Nov-15,ODI # 3708,won,95 runs,won,1st, Pakistan,Abu Dhabi,ENGLAND,1
+17-Nov-15,ODI # 3710,lost,6 wickets,won,1st, England,Sharjah,PAKISTAN,7
+17-Nov-15,ODI # 3710,won,6 wickets,lost,2nd, Pakistan,Sharjah,ENGLAND,1
+20-Nov-15,ODI # 3712,lost,84 runs,lost,2nd, England,Dubai (DSC),PAKISTAN,7
+20-Nov-15,ODI # 3712,won,84 runs,won,1st, Pakistan,Dubai (DSC),ENGLAND,1
+25-Dec-15,ODI # 3713,won,49 runs,won,1st, Zimbabwe,Sharjah,AFGHANISTAN,40
+26-Dec-15,ODI # 3714,lost,7 wickets,won,1st, New Zealand,Christchurch,SRILANKA,8
+26-Dec-15,ODI # 3714,won,7 wickets,lost,2nd, Sri Lanka,Christchurch,NEWZEALAD,5
+28-Dec-15,ODI # 3715,lost,10 wickets,won,1st, New Zealand,Christchurch,SRILANKA,8
+28-Dec-15,ODI # 3715,won,10 wickets,lost,2nd, Sri Lanka,Christchurch,NEWZEALAD,5
+29-Dec-15,ODI # 3716,won,4 wickets,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+31-Dec-15,ODI # 3717,won,8 wickets,lost,2nd, New Zealand,Nelson,SRILANKA,8
+31-Dec-15,ODI # 3717,lost,8 wickets,won,1st, Sri Lanka,Nelson,NEWZEALAD,5
+2-Jan-16,ODI # 3719,lost,117 runs,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+4-Jan-16,ODI # 3720,lost,65 runs,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+5-Jan-16,ODI # 3721,lost,36 runs,won,2nd, New Zealand,Mount Maunganui,SRILANKA,8
+5-Jan-16,ODI # 3721,won,36 runs,lost,1st, Sri Lanka,Mount Maunganui,NEWZEALAD,5
+6-Jan-16,ODI # 3722,won,2 wickets,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+12-Jan-16,ODI # 3723,lost,5 wickets,won,1st, Australia,Perth,INDIA,6
+12-Jan-16,ODI # 3723,won,5 wickets,lost,2nd, India,Perth,AUSTRALIA,2
+15-Jan-16,ODI # 3724,lost,7 wickets,won,1st, Australia,Brisbane,INDIA,6
+15-Jan-16,ODI # 3724,won,7 wickets,lost,2nd, India,Brisbane,AUSTRALIA,2
+17-Jan-16,ODI # 3725,lost,3 wickets,lost,1st, Australia,Melbourne,INDIA,6
+17-Jan-16,ODI # 3725,won,3 wickets,won,2nd, India,Melbourne,AUSTRALIA,2
+20-Jan-16,ODI # 3726,lost,25 runs,lost,2nd, Australia,Canberra,INDIA,6
+20-Jan-16,ODI # 3726,won,25 runs,won,1st, India,Canberra,AUSTRALIA,2
+23-Jan-16,ODI # 3727,won,6 wickets,won,2nd, Australia,Sydney,INDIA,6
+23-Jan-16,ODI # 3727,lost,6 wickets,lost,1st, India,Sydney,AUSTRALIA,2
+25-Jan-16,ODI # 3728,lost,70 runs,won,2nd, New Zealand,Wellington,PAKISTAN,7
+25-Jan-16,ODI # 3728,won,70 runs,lost,1st, Pakistan,Wellington,NEWZEALAD,5
+31-Jan-16,ODI # 3730,lost,3 wickets,won,1st, New Zealand,Auckland,PAKISTAN,7
+31-Jan-16,ODI # 3730,won,3 wickets,lost,2nd, Pakistan,Auckland,NEWZEALAD,5
+3-Feb-16,ODI # 3731,won,159 runs,lost,1st, Australia,Auckland,NEWZEALAD,5
+3-Feb-16,ODI # 3731,lost,159 runs,won,2nd, New Zealand,Auckland,AUSTRALIA,2
+3-Feb-16,ODI # 3732,lost,39 runs,lost,2nd, England,Bloemfontein,SOUTHAFRICA,3
+3-Feb-16,ODI # 3732,won,39 runs,won,1st, South Africa,Bloemfontein,ENGLAND,1
+6-Feb-16,ODI # 3733,lost,4 wickets,won,1st, Australia,Wellington,NEWZEALAD,5
+6-Feb-16,ODI # 3733,won,4 wickets,lost,2nd, New Zealand,Wellington,AUSTRALIA,2
+6-Feb-16,ODI # 3734,lost,5 wickets,won,1st, England,Port Elizabeth,SOUTHAFRICA,3
+6-Feb-16,ODI # 3734,won,5 wickets,lost,2nd, South Africa,Port Elizabeth,ENGLAND,1
+8-Feb-16,ODI # 3735,won,55 runs,lost,1st, Australia,Hamilton,NEWZEALAD,5
+8-Feb-16,ODI # 3735,lost,55 runs,won,2nd, New Zealand,Hamilton,AUSTRALIA,2
+9-Feb-16,ODI # 3736,won,7 wickets,lost,2nd, England,Centurion,SOUTHAFRICA,3
+9-Feb-16,ODI # 3736,lost,7 wickets,won,1st, South Africa,Centurion,ENGLAND,1
+12-Feb-16,ODI # 3737,won,1 wickets,won,2nd, England,Johannesburg,SOUTHAFRICA,3
+12-Feb-16,ODI # 3737,lost,1 wickets,lost,1st, South Africa,Johannesburg,ENGLAND,1
+14-Feb-16,ODI # 3738,won,5 wickets,won,2nd, England,Cape Town,SOUTHAFRICA,3
+14-Feb-16,ODI # 3738,lost,5 wickets,lost,1st, South Africa,Cape Town,ENGLAND,1
+3-Jun-16,ODI # 3739,won,4 wickets,lost,2nd, South Africa,Providence,WESTINDIES,4
+3-Jun-16,ODI # 3739,lost,4 wickets,won,1st, West Indies,Providence,SOUTHAFRICA,3
+5-Jun-16,ODI # 3740,lost,6 wickets,lost,1st, Australia,Providence,WESTINDIES,4
+5-Jun-16,ODI # 3740,won,6 wickets,won,2nd, West Indies,Providence,AUSTRALIA,2
+7-Jun-16,ODI # 3741,won,47 runs,won,1st, Australia,Providence,SOUTHAFRICA,3
+7-Jun-16,ODI # 3741,lost,47 runs,lost,2nd, South Africa,Providence,AUSTRALIA,2
+11-Jun-16,ODI # 3742,won,9 wickets,won,2nd, Zimbabwe,Harare,INDIA,6
+11-Jun-16,ODI # 3743,lost,36 runs,lost,2nd, Australia,Basseterre,SOUTHAFRICA,3
+11-Jun-16,ODI # 3743,won,36 runs,won,1st, South Africa,Basseterre,AUSTRALIA,2
+13-Jun-16,ODI # 3744,won,8 wickets,won,2nd, Zimbabwe,Harare,INDIA,6
+13-Jun-16,ODI # 3745,won,4 wickets,won,2nd, Australia,Basseterre,WESTINDIES,4
+13-Jun-16,ODI # 3745,lost,4 wickets,lost,1st, West Indies,Basseterre,AUSTRALIA,2
+15-Jun-16,ODI # 3746,won,10 wickets,lost,2nd, Zimbabwe,Harare,INDIA,6
+15-Jun-16,ODI # 3747,lost,139 runs,won,2nd, South Africa,Basseterre,WESTINDIES,4
+15-Jun-16,ODI # 3747,won,139 runs,lost,1st, West Indies,Basseterre,SOUTHAFRICA,3
+16-Jun-16,ODI # 3748,won,76 runs,lost,1st, Ireland,Dublin (Malahide),SRILANKA,8
+18-Jun-16,ODI # 3749,won,136 runs,lost,1st, Ireland,Dublin (Malahide),SRILANKA,8
+21-Jun-16,ODI # 3752,lost,6 wickets,lost,1st, Australia,Bridgetown,WESTINDIES,4
+21-Jun-16,ODI # 3752,won,6 wickets,won,2nd, West Indies,Bridgetown,AUSTRALIA,2
+24-Jun-16,ODI # 3753,lost,10 wickets,won,1st, England,Birmingham,SRILANKA,8
+24-Jun-16,ODI # 3753,won,10 wickets,lost,2nd, Sri Lanka,Birmingham,ENGLAND,1
+24-Jun-16,ODI # 3754,won,100 runs,lost,1st, South Africa,Bridgetown,WESTINDIES,4
+24-Jun-16,ODI # 3754,lost,100 runs,won,2nd, West Indies,Bridgetown,SOUTHAFRICA,3
+26-Jun-16,ODI # 3756,lost,58 runs,lost,2nd, Australia,Bridgetown,WESTINDIES,4
+26-Jun-16,ODI # 3756,won,58 runs,won,1st, West Indies,Bridgetown,AUSTRALIA,2
+29-Jun-16,ODI # 3757,lost,6 wickets,lost,1st, England,The Oval,SRILANKA,8
+29-Jun-16,ODI # 3757,won,6 wickets,won,2nd, Sri Lanka,The Oval,ENGLAND,1
+2-Jul-16,ODI # 3758,lost,122 runs,won,2nd, England,Cardiff,SRILANKA,8
+2-Jul-16,ODI # 3758,won,122 runs,lost,1st, Sri Lanka,Cardiff,ENGLAND,1
+6-Jul-16,ODI # 3760,won,78 runs,won,1st, Scotland,Edinburgh,AFGHANISTAN,40
+12-Jul-16,ODI # 3761,won,39 runs,lost,1st, Ireland,Belfast,AFGHANISTAN,40
+14-Jul-16,ODI # 3762,lost,6 wickets,won,1st, Ireland,Belfast,AFGHANISTAN,40
+17-Jul-16,ODI # 3763,won,79 runs,won,1st, Ireland,Belfast,AFGHANISTAN,40
+19-Jul-16,ODI # 3764,lost,12 runs,won,2nd, Ireland,Belfast,AFGHANISTAN,40
+18-Aug-16,ODI # 3767,won,255 runs,lost,1st, Ireland,Dublin (Malahide),PAKISTAN,7
+19-Jun-14,ODI # 3499,n/r,,won,1st, Bangladesh,Dhaka,INDIA,6
+19-Jun-14,ODI # 3499,n/r,,lost,2nd, India,Dhaka,BANGLADESH,25
+27-Oct-14,ODI # 3538,n/r,,lost,1st, New Zealand,Hamilton,SOUTHAFRICA,3
+27-Oct-14,ODI # 3538,n/r,,won,2nd, South Africa,Hamilton,NEWZEALAD,5
+17-Jan-15,ODI # 3580,n/r,,won,2nd, New Zealand,Auckland,SRILANKA,8
+17-Jan-15,ODI # 3580,n/r,,lost,1st, Sri Lanka,Auckland,NEWZEALAD,5
+26-Jan-15,ODI # 3592,n/r,,lost,1st, Australia,Sydney,INDIA,6
+26-Jan-15,ODI # 3592,n/r,,won,2nd, India,Sydney,AUSTRALIA,2
+8-May-15,ODI # 3650,n/r,,won,2nd, Ireland,Dublin (Malahide),ENGLAND,1
+31-May-15,ODI # 3653,n/r,,won,1st, Zimbabwe,Lahore,PAKISTAN,7
+2-Jan-16,ODI # 3718,n/r,,won,2nd, New Zealand,Nelson,SRILANKA,8
+2-Jan-16,ODI # 3718,n/r,,lost,1st, Sri Lanka,Nelson,NEWZEALAD,5
+19-Jun-16,ODI # 3750,n/r,,lost,1st, Australia,Bridgetown,SOUTHAFRICA,3
+19-Jun-16,ODI # 3750,n/r,,won,2nd, South Africa,Bridgetown,AUSTRALIA,2
+21-Jun-16,ODI # 3751,tied,,lost,1st, England,Nottingham,SRILANKA,8
+21-Jun-16,ODI # 3751,tied,,won,2nd, Sri Lanka,Nottingham,ENGLAND,1
+26-Jun-16,ODI # 3755,n/r,,lost,1st, England,Bristol,SRILANKA,8
+26-Jun-16,ODI # 3755,n/r,,won,2nd, Sri Lanka,Bristol,ENGLAND,1
+4-Jul-16,ODI # 3759,n/r,,lost,1st, Scotland,Edinburgh,AFGHANISTAN,40
+14-Oct-14,ODI # 3534,NOT PLAYED,,,, India,Visakhapatnam,WESTINDIES,4
+14-Oct-14,ODI # 3534,NOT PLAYED,,,, West Indies,Visakhapatnam,INDIA,6
+20-Oct-14,ODI # 3535,NOT PLAYED,,,, India,Kolkata,WESTINDIES,4
+20-Oct-14,ODI # 3535,NOT PLAYED,,,, West Indies,Kolkata,INDIA,6
+8-May-14,ODI # 3490,NOT PLAYED,,,, Ireland,Dublin,SRILANKA,8
+25-Aug-14,ODI # 3513,NOT PLAYED,,,, England,Bristol,INDIA,6
+25-Aug-14,ODI # 3513,NOT PLAYED,,,, India,Bristol,ENGLAND,1
+21-Feb-15,ODI # 3608,NOT PLAYED,,,, Australia,Brisbane,BANGLADESH,25
+21-Feb-15,ODI # 3608,NOT PLAYED,,,, Bangladesh,Brisbane,AUSTRALIA,2
+28-Jan-16,ODI # 3729,NOT PLAYED,,,, New Zealand,Napier,PAKISTAN,7
+28-Jan-16,ODI # 3729,NOT PLAYED,,,, Pakistan,Napier,NEWZEALAD,5
+10-Jul-16,ODI # 3760,NOT PLAYED,,,, Ireland,Belfast,AFGHANISTAN,40
+20-Aug-16,ODI # 3767,NOT PLAYED,,,, Ireland,Dublin (Malahide),PAKISTAN,7
+21-Aug-16,ODI # 3768,lost,3 wickets,lost,1st, Australia,Colombo (RPS),SRILANKA,8
+21-Aug-16,ODI # 3768,won,3 wickets,won,2nd, Sri Lanka,Colombo (RPS),AUSTRALIA,2
+24-Aug-16,ODI # 3769,won,82 runs,won,1st, Australia,Colombo (RPS),SRILANKA,8
+24-Aug-16,ODI # 3769,lost,82 runs,lost,2nd, Sri Lanka,Colombo (RPS),AUSTRALIA,2
+24-Aug-16,ODI # 3770,lost,44 runs,won,1st, England,Southampton,PAKISTAN,7
+24-Aug-16,ODI # 3770,won,44 runs,lost,2nd, Pakistan,Southampton,ENGLAND,1
+27-Aug-16,ODI # 3771,lost,4 wickets,won,1st, England,Lord's,PAKISTAN,7
+27-Aug-16,ODI # 3771,won,4 wickets,lost,2nd, Pakistan,Lord's,ENGLAND,1
+28-Aug-16,ODI # 3772,lost,2 wickets,won,1st, Australia,Dambulla,SRILANKA,8
+28-Aug-16,ODI # 3772,won,2 wickets,lost,2nd, Sri Lanka,Dambulla,AUSTRALIA,2
+30-Aug-16,ODI # 3773,lost,169 runs,lost,2nd, England,Nottingham,PAKISTAN,7
+30-Aug-16,ODI # 3773,won,169 runs,won,1st, Pakistan,Nottingham,ENGLAND,1
+31-Aug-16,ODI # 3774,lost,6 wickets,won,1st, Australia,Dambulla,SRILANKA,8
+31-Aug-16,ODI # 3774,won,6 wickets,lost,2nd, Sri Lanka,Dambulla,AUSTRALIA,2
+1-Sep-16,ODI # 3775,lost,4 wickets,won,1st, England,Leeds,PAKISTAN,7
+1-Sep-16,ODI # 3775,won,4 wickets,lost,2nd, Pakistan,Leeds,ENGLAND,1
+4-Sep-16,ODI # 3776,lost,5 wickets,won,1st, Australia,Pallekele,SRILANKA,8
+4-Sep-16,ODI # 3776,won,5 wickets,lost,2nd, Sri Lanka,Pallekele,AUSTRALIA,2
+4-Sep-16,ODI # 3777,won,4 wickets,won,2nd, England,Cardiff,PAKISTAN,7
+4-Sep-16,ODI # 3777,lost,4 wickets,lost,1st, Pakistan,Cardiff,ENGLAND,1
+25-Sep-16,ODI # 3780,won,206 runs,lost,1st, Ireland,Benoni,SOUTHAFRICA,3
+25-Sep-16,ODI # 3781,won,7 runs,won,1st, Afghanistan,Dhaka,BANGLADESH,25
+25-Sep-16,ODI # 3781,lost,7 runs,lost,2nd, Bangladesh,Dhaka,AFGHANISTAN,40
+27-Sep-16,ODI # 3782,won,9 wickets,lost,2nd, Ireland,Benoni,AUSTRALIA,2
+28-Sep-16,ODI # 3783,lost,2 wickets,lost,1st, Afghanistan,Dhaka,BANGLADESH,25
+28-Sep-16,ODI # 3783,won,2 wickets,won,2nd, Bangladesh,Dhaka,AFGHANISTAN,40
+30-Sep-16,ODI # 3784,lost,111 runs,won,2nd, Pakistan,Sharjah,WESTINDIES,4
+30-Sep-16,ODI # 3784,won,111 runs,lost,1st, West Indies,Sharjah,PAKISTAN,7
+30-Sep-16,ODI # 3785,won,6 wickets,won,2nd, Australia,Centurion,SOUTHAFRICA,3
+30-Sep-16,ODI # 3785,lost,6 wickets,lost,1st, South Africa,Centurion,AUSTRALIA,2
+1-Oct-16,ODI # 3786,won,141 runs,won,1st, Afghanistan,Dhaka,BANGLADESH,25
+1-Oct-16,ODI # 3786,lost,141 runs,lost,2nd, Bangladesh,Dhaka,AFGHANISTAN,40
+2-Oct-16,ODI # 3787,won,142 runs,lost,1st, Australia,Johannesburg,SOUTHAFRICA,3
+2-Oct-16,ODI # 3787,lost,142 runs,won,2nd, South Africa,Johannesburg,AUSTRALIA,2
+2-Oct-16,ODI # 3788,lost,59 runs,lost,2nd, Pakistan,Sharjah,WESTINDIES,4
+2-Oct-16,ODI # 3788,won,59 runs,won,1st, West Indies,Sharjah,PAKISTAN,7
+5-Oct-16,ODI # 3789,lost,136 runs,lost,2nd, Pakistan,Abu Dhabi,WESTINDIES,4
+5-Oct-16,ODI # 3789,won,136 runs,won,1st, West Indies,Abu Dhabi,PAKISTAN,7
+5-Oct-16,ODI # 3790,won,4 wickets,lost,2nd, Australia,Durban,SOUTHAFRICA,3
+5-Oct-16,ODI # 3790,lost,4 wickets,won,1st, South Africa,Durban,AUSTRALIA,2
+7-Oct-16,ODI # 3791,won,21 runs,won,1st, Bangladesh,Dhaka,ENGLAND,1
+7-Oct-16,ODI # 3791,lost,21 runs,lost,2nd, England,Dhaka,BANGLADESH,25
+9-Oct-16,ODI # 3792,won,6 wickets,lost,2nd, Australia,Port Elizabeth,SOUTHAFRICA,3
+9-Oct-16,ODI # 3792,lost,6 wickets,won,1st, South Africa,Port Elizabeth,AUSTRALIA,2
+9-Oct-16,ODI # 3793,lost,34 runs,won,2nd, Bangladesh,Dhaka,ENGLAND,1
+9-Oct-16,ODI # 3793,won,34 runs,lost,1st, England,Dhaka,BANGLADESH,25
+12-Oct-16,ODI # 3794,won,4 wickets,won,2nd, Bangladesh,Chattogram,ENGLAND,1
+12-Oct-16,ODI # 3794,lost,4 wickets,lost,1st, England,Chattogram,BANGLADESH,25
+12-Oct-16,ODI # 3795,won,31 runs,won,1st, Australia,Cape Town,SOUTHAFRICA,3
+12-Oct-16,ODI # 3795,lost,31 runs,lost,2nd, South Africa,Cape Town,AUSTRALIA,2
+16-Oct-16,ODI # 3796,lost,6 wickets,lost,1st, India,Dharamsala,NEWZEALAD,5
+16-Oct-16,ODI # 3796,won,6 wickets,won,2nd, New Zealand,Dharamsala,INDIA,6
+20-Oct-16,ODI # 3797,won,6 runs,lost,1st, India,Delhi,NEWZEALAD,5
+20-Oct-16,ODI # 3797,lost,6 runs,won,2nd, New Zealand,Delhi,INDIA,6
+23-Oct-16,ODI # 3798,lost,7 wickets,lost,1st, India,Mohali,NEWZEALAD,5
+23-Oct-16,ODI # 3798,won,7 wickets,won,2nd, New Zealand,Mohali,INDIA,6
+26-Oct-16,ODI # 3799,won,19 runs,won,1st, India,Ranchi,NEWZEALAD,5
+26-Oct-16,ODI # 3799,lost,19 runs,lost,2nd, New Zealand,Ranchi,INDIA,6
+29-Oct-16,ODI # 3800,lost,190 runs,lost,2nd, India,Visakhapatnam,NEWZEALAD,5
+29-Oct-16,ODI # 3800,won,190 runs,won,1st, New Zealand,Visakhapatnam,INDIA,6
+14-Nov-16,ODI # 3804,won,8 wickets,won,2nd, Zimbabwe,Harare,SRILANKA,8
+16-Nov-16,ODI # 3805,won,62 runs,lost,1st, Sri Lanka,Harare,WESTINDIES,4
+16-Nov-16,ODI # 3805,lost,62 runs,won,2nd, West Indies,Harare,SRILANKA,8
+23-Nov-16,ODI # 3808,lost,1 runs,won,2nd, Sri Lanka,Bulawayo,WESTINDIES,4
+23-Nov-16,ODI # 3808,won,1 runs,lost,1st, West Indies,Bulawayo,SRILANKA,8
+25-Nov-16,ODI # 3809,lost,5 runs,lost,2nd, Zimbabwe,Bulawayo,WESTINDIES,4
+27-Nov-16,ODI # 3810,won,6 wickets,lost,2nd, Zimbabwe,Bulawayo,SRILANKA,8
+4-Dec-16,ODI # 3811,lost,68 runs,lost,2nd, Australia,Sydney,NEWZEALAD,5
+4-Dec-16,ODI # 3811,won,68 runs,won,1st, New Zealand,Sydney,AUSTRALIA,2
+6-Dec-16,ODI # 3812,lost,116 runs,won,2nd, Australia,Canberra,NEWZEALAD,5
+6-Dec-16,ODI # 3812,won,116 runs,lost,1st, New Zealand,Canberra,AUSTRALIA,2
+9-Dec-16,ODI # 3813,lost,117 runs,lost,2nd, Australia,Melbourne,NEWZEALAD,5
+9-Dec-16,ODI # 3813,won,117 runs,won,1st, New Zealand,Melbourne,AUSTRALIA,2
+26-Dec-16,ODI # 3814,won,77 runs,won,1st, Bangladesh,Christchurch,NEWZEALAD,5
+26-Dec-16,ODI # 3814,lost,77 runs,lost,2nd, New Zealand,Christchurch,BANGLADESH,25
+29-Dec-16,ODI # 3815,won,67 runs,lost,1st, Bangladesh,Nelson,NEWZEALAD,5
+29-Dec-16,ODI # 3815,lost,67 runs,won,2nd, New Zealand,Nelson,BANGLADESH,25
+31-Dec-16,ODI # 3816,won,8 wickets,lost,2nd, Bangladesh,Nelson,NEWZEALAD,5
+31-Dec-16,ODI # 3816,lost,8 wickets,won,1st, New Zealand,Nelson,BANGLADESH,25
+13-Jan-17,ODI # 3817,lost,92 runs,lost,2nd, Australia,Brisbane,PAKISTAN,7
+13-Jan-17,ODI # 3817,won,92 runs,won,1st, Pakistan,Brisbane,AUSTRALIA,2
+15-Jan-17,ODI # 3818,won,6 wickets,lost,2nd, Australia,Melbourne,PAKISTAN,7
+15-Jan-17,ODI # 3818,lost,6 wickets,won,1st, Pakistan,Melbourne,AUSTRALIA,2
+15-Jan-17,ODI # 3819,won,3 wickets,won,2nd, England,Pune,INDIA,6
+15-Jan-17,ODI # 3819,lost,3 wickets,lost,1st, India,Pune,ENGLAND,1
+19-Jan-17,ODI # 3820,lost,7 wickets,lost,1st, Australia,Perth,PAKISTAN,7
+19-Jan-17,ODI # 3820,won,7 wickets,won,2nd, Pakistan,Perth,AUSTRALIA,2
+19-Jan-17,ODI # 3821,won,15 runs,lost,1st, England,Cuttack,INDIA,6
+19-Jan-17,ODI # 3821,lost,15 runs,won,2nd, India,Cuttack,ENGLAND,1
+22-Jan-17,ODI # 3822,lost,86 runs,lost,2nd, Australia,Sydney,PAKISTAN,7
+22-Jan-17,ODI # 3822,won,86 runs,won,1st, Pakistan,Sydney,AUSTRALIA,2
+22-Jan-17,ODI # 3824,lost,5 runs,won,2nd, England,Kolkata,INDIA,6
+22-Jan-17,ODI # 3824,won,5 runs,lost,1st, India,Kolkata,ENGLAND,1
+26-Jan-17,ODI # 3826,lost,57 runs,lost,2nd, Australia,Adelaide,PAKISTAN,7
+26-Jan-17,ODI # 3826,won,57 runs,won,1st, Pakistan,Adelaide,AUSTRALIA,2
+28-Jan-17,ODI # 3828,lost,8 wickets,lost,1st, South Africa,Port Elizabeth,SRILANKA,8
+28-Jan-17,ODI # 3828,won,8 wickets,won,2nd, Sri Lanka,Port Elizabeth,SOUTHAFRICA,3
+30-Jan-17,ODI # 3829,won,6 runs,lost,1st, Australia,Auckland,NEWZEALAD,5
+30-Jan-17,ODI # 3829,lost,6 runs,won,2nd, New Zealand,Auckland,AUSTRALIA,2
+1-Feb-17,ODI # 3830,lost,121 runs,won,2nd, South Africa,Durban,SRILANKA,8
+1-Feb-17,ODI # 3830,won,121 runs,lost,1st, Sri Lanka,Durban,SOUTHAFRICA,3
+4-Feb-17,ODI # 3831,lost,7 wickets,lost,1st, South Africa,Johannesburg,SRILANKA,8
+4-Feb-17,ODI # 3831,won,7 wickets,won,2nd, Sri Lanka,Johannesburg,SOUTHAFRICA,3
+5-Feb-17,ODI # 3832,won,24 runs,won,1st, Australia,Hamilton,NEWZEALAD,5
+5-Feb-17,ODI # 3832,lost,24 runs,lost,2nd, New Zealand,Hamilton,AUSTRALIA,2
+7-Feb-17,ODI # 3833,lost,40 runs,lost,2nd, South Africa,Cape Town,SRILANKA,8
+7-Feb-17,ODI # 3833,won,40 runs,won,1st, Sri Lanka,Cape Town,SOUTHAFRICA,3
+10-Feb-17,ODI # 3834,lost,88 runs,won,2nd, South Africa,Centurion,SRILANKA,8
+10-Feb-17,ODI # 3834,won,88 runs,lost,1st, Sri Lanka,Centurion,SOUTHAFRICA,3
+16-Feb-17,ODI # 3835,won,12 runs,won,1st, Zimbabwe,Harare,AFGHANISTAN,40
+19-Feb-17,ODI # 3836,won,4 wickets,won,2nd, New Zealand,Hamilton,SOUTHAFRICA,3
+19-Feb-17,ODI # 3836,lost,4 wickets,lost,1st, South Africa,Hamilton,NEWZEALAD,5
+19-Feb-17,ODI # 3837,won,54 runs,won,1st, Zimbabwe,Harare,AFGHANISTAN,40
+21-Feb-17,ODI # 3838,lost,3 runs,lost,2nd, Zimbabwe,Harare,AFGHANISTAN,40
+22-Feb-17,ODI # 3839,lost,6 runs,won,2nd, New Zealand,Christchurch,SOUTHAFRICA,3
+22-Feb-17,ODI # 3839,won,6 runs,lost,1st, South Africa,Christchurch,NEWZEALAD,5
+24-Feb-17,ODI # 3840,lost,7 wickets,won,1st, Zimbabwe,Harare,AFGHANISTAN,40
+25-Feb-17,ODI # 3841,won,159 runs,won,1st, New Zealand,Wellington,SOUTHAFRICA,3
+25-Feb-17,ODI # 3841,lost,159 runs,lost,2nd, South Africa,Wellington,NEWZEALAD,5
+26-Feb-17,ODI # 3842,won,106 runs,won,1st, Zimbabwe,Harare,AFGHANISTAN,40
+1-Mar-17,ODI # 3843,lost,7 wickets,won,1st, New Zealand,Hamilton,SOUTHAFRICA,3
+1-Mar-17,ODI # 3843,won,7 wickets,lost,2nd, South Africa,Hamilton,NEWZEALAD,5
+3-Mar-17,ODI # 3845,lost,45 runs,won,2nd, England,North Sound,WESTINDIES,4
+3-Mar-17,ODI # 3845,won,45 runs,lost,1st, West Indies,North Sound,ENGLAND,1
+4-Mar-17,ODI # 3846,won,6 wickets,won,2nd, New Zealand,Auckland,SOUTHAFRICA,3
+4-Mar-17,ODI # 3846,lost,6 wickets,lost,1st, South Africa,Auckland,NEWZEALAD,5
+5-Mar-17,ODI # 3848,lost,4 wickets,won,1st, England,North Sound,WESTINDIES,4
+5-Mar-17,ODI # 3848,won,4 wickets,lost,2nd, West Indies,North Sound,ENGLAND,1
+9-Mar-17,ODI # 3849,lost,186 runs,won,2nd, England,Bridgetown,WESTINDIES,4
+9-Mar-17,ODI # 3849,won,186 runs,lost,1st, West Indies,Bridgetown,ENGLAND,1
+15-Mar-17,ODI # 3850,won,30 runs,won,1st, Ireland,Greater Noida,AFGHANISTAN,40
+17-Mar-17,ODI # 3851,won,34 runs,won,1st, Ireland,Greater Noida,AFGHANISTAN,40
+19-Mar-17,ODI # 3852,lost,6 wickets,won,1st, Ireland,Greater Noida,AFGHANISTAN,40
+22-Mar-17,ODI # 3853,lost,3 wickets,won,1st, Ireland,Greater Noida,AFGHANISTAN,40
+24-Mar-17,ODI # 3854,won,7 wickets,lost,2nd, Ireland,Greater Noida,AFGHANISTAN,40
+25-Mar-17,ODI # 3855,lost,90 runs,won,2nd, Bangladesh,Dambulla,SRILANKA,8
+25-Mar-17,ODI # 3855,won,90 runs,lost,1st, Sri Lanka,Dambulla,BANGLADESH,25
+1-Apr-17,ODI # 3858,won,70 runs,lost,1st, Bangladesh,Colombo (SSC),SRILANKA,8
+1-Apr-17,ODI # 3858,lost,70 runs,won,2nd, Sri Lanka,Colombo (SSC),BANGLADESH,25
+7-Apr-17,ODI # 3861,won,4 wickets,won,2nd, Pakistan,Providence,WESTINDIES,4
+7-Apr-17,ODI # 3861,lost,4 wickets,lost,1st, West Indies,Providence,PAKISTAN,7
+9-Apr-17,ODI # 3862,lost,74 runs,won,2nd, Pakistan,Providence,WESTINDIES,4
+9-Apr-17,ODI # 3862,won,74 runs,lost,1st, West Indies,Providence,PAKISTAN,7
+11-Apr-17,ODI # 3863,lost,6 wickets,won,1st, Pakistan,Providence,WESTINDIES,4
+11-Apr-17,ODI # 3863,won,6 wickets,lost,2nd, West Indies,Providence,PAKISTAN,7
+5-May-17,ODI # 3864,won,7 wickets,lost,2nd, Ireland,Bristol,ENGLAND,1
+7-May-17,ODI # 3865,won,85 runs,lost,1st, Ireland,Lord's,ENGLAND,1
+14-May-17,ODI # 3867,won,51 runs,lost,1st, Ireland,Dublin (Malahide),NEWZEALAD,5
+17-May-17,ODI # 3868,won,4 wickets,won,2nd, Bangladesh,Dublin,NEWZEALAD,5
+17-May-17,ODI # 3868,lost,4 wickets,lost,1st, New Zealand,Dublin,BANGLADESH,25
+19-May-17,ODI # 3869,won,8 wickets,won,2nd, Ireland,Dublin (Malahide),BANGLADESH,25
+21-May-17,ODI # 3870,won,190 runs,lost,1st, Ireland,Dublin (Malahide),NEWZEALAD,5
+24-May-17,ODI # 3871,lost,5 wickets,lost,1st, Bangladesh,Dublin,NEWZEALAD,5
+24-May-17,ODI # 3871,won,5 wickets,won,2nd, New Zealand,Dublin,BANGLADESH,25
+24-May-17,ODI # 3872,lost,72 runs,won,2nd, England,Leeds,SOUTHAFRICA,3
+24-May-17,ODI # 3872,won,72 runs,lost,1st, South Africa,Leeds,ENGLAND,1
+27-May-17,ODI # 3873,lost,2 runs,won,2nd, England,Southampton,SOUTHAFRICA,3
+27-May-17,ODI # 3873,won,2 runs,lost,1st, South Africa,Southampton,ENGLAND,1
+29-May-17,ODI # 3874,won,7 wickets,won,2nd, England,Lord's,SOUTHAFRICA,3
+29-May-17,ODI # 3874,lost,7 wickets,lost,1st, South Africa,Lord's,ENGLAND,1
+1-Jun-17,ODI # 3875,won,8 wickets,won,2nd, Bangladesh,The Oval,ENGLAND,1
+1-Jun-17,ODI # 3875,lost,8 wickets,lost,1st, England,The Oval,BANGLADESH,25
+3-Jun-17,ODI # 3877,lost,96 runs,won,2nd, South Africa,The Oval,SRILANKA,8
+3-Jun-17,ODI # 3877,won,96 runs,lost,1st, Sri Lanka,The Oval,SOUTHAFRICA,3
+4-Jun-17,ODI # 3878,lost,124 runs,won,2nd, India,Birmingham,PAKISTAN,7
+4-Jun-17,ODI # 3878,won,124 runs,lost,1st, Pakistan,Birmingham,INDIA,6
+6-Jun-17,ODI # 3880,lost,87 runs,won,2nd, England,Cardiff,NEWZEALAD,5
+6-Jun-17,ODI # 3880,won,87 runs,lost,1st, New Zealand,Cardiff,ENGLAND,1
+7-Jun-17,ODI # 3881,lost,19 runs,won,1st, Pakistan,Birmingham,SOUTHAFRICA,3
+7-Jun-17,ODI # 3881,won,19 runs,lost,2nd, South Africa,Birmingham,PAKISTAN,7
+8-Jun-17,ODI # 3882,won,7 wickets,won,2nd, India,The Oval,SRILANKA,8
+8-Jun-17,ODI # 3882,lost,7 wickets,lost,1st, Sri Lanka,The Oval,INDIA,6
+9-Jun-17,ODI # 3883,lost,5 wickets,won,1st, Bangladesh,Cardiff,NEWZEALAD,5
+9-Jun-17,ODI # 3883,won,5 wickets,lost,2nd, New Zealand,Cardiff,BANGLADESH,25
+9-Jun-17,ODI # 3884,lost,63 runs,lost,2nd, Afghanistan,Gros Islet,WESTINDIES,4
+9-Jun-17,ODI # 3884,won,63 runs,won,1st, West Indies,Gros Islet,AFGHANISTAN,40
+10-Jun-17,ODI # 3885,won,40 runs,won,2nd, Australia,Birmingham,ENGLAND,1
+10-Jun-17,ODI # 3885,lost,40 runs,lost,1st, England,Birmingham,AUSTRALIA,2
+11-Jun-17,ODI # 3886,lost,8 wickets,lost,1st, India,The Oval,SOUTHAFRICA,3
+11-Jun-17,ODI # 3886,won,8 wickets,won,2nd, South Africa,The Oval,INDIA,6
+11-Jun-17,ODI # 3887,won,4 wickets,lost,2nd, Afghanistan,Gros Islet,WESTINDIES,4
+11-Jun-17,ODI # 3887,lost,4 wickets,won,1st, West Indies,Gros Islet,AFGHANISTAN,40
+12-Jun-17,ODI # 3888,lost,3 wickets,lost,1st, Pakistan,Cardiff,SRILANKA,8
+12-Jun-17,ODI # 3888,won,3 wickets,won,2nd, Sri Lanka,Cardiff,PAKISTAN,7
+14-Jun-17,ODI # 3889,won,8 wickets,won,2nd, England,Cardiff,PAKISTAN,7
+14-Jun-17,ODI # 3889,lost,8 wickets,lost,1st, Pakistan,Cardiff,ENGLAND,1
+15-Jun-17,ODI # 3891,won,9 wickets,won,2nd, Bangladesh,Birmingham,INDIA,6
+15-Jun-17,ODI # 3891,lost,9 wickets,lost,1st, India,Birmingham,BANGLADESH,25
+18-Jun-17,ODI # 3894,won,180 runs,lost,1st, India,The Oval,PAKISTAN,7
+18-Jun-17,ODI # 3894,lost,180 runs,won,2nd, Pakistan,The Oval,INDIA,6
+25-Jun-17,ODI # 3896,lost,105 runs,won,2nd, India,Port of Spain,WESTINDIES,4
+25-Jun-17,ODI # 3896,won,105 runs,lost,1st, West Indies,Port of Spain,INDIA,6
+30-Jun-17,ODI # 3897,lost,6 wickets,won,1st, Zimbabwe,Galle,SRILANKA,8
+30-Jun-17,ODI # 3898,lost,93 runs,won,2nd, India,North Sound,WESTINDIES,4
+30-Jun-17,ODI # 3898,won,93 runs,lost,1st, West Indies,North Sound,INDIA,6
+2-Jul-17,ODI # 3899,won,7 wickets,won,2nd, Zimbabwe,Galle,SRILANKA,8
+2-Jul-17,ODI # 3900,won,11 runs,won,1st, India,North Sound,WESTINDIES,4
+2-Jul-17,ODI # 3900,lost,11 runs,lost,2nd, West Indies,North Sound,INDIA,6
+6-Jul-17,ODI # 3901,won,8 wickets,won,2nd, Zimbabwe,Hambantota,SRILANKA,8
+6-Jul-17,ODI # 3902,lost,8 wickets,won,1st, India,Kingston,WESTINDIES,4
+6-Jul-17,ODI # 3902,won,8 wickets,lost,2nd, West Indies,Kingston,INDIA,6
+8-Jul-17,ODI # 3903,lost,4 wickets,won,1st, Zimbabwe,Hambantota,SRILANKA,8
+10-Jul-17,ODI # 3904,lost,3 wickets,lost,1st, Zimbabwe,Hambantota,SRILANKA,8
+20-Aug-17,ODI # 3905,lost,9 wickets,lost,1st, India,Dambulla,SRILANKA,8
+20-Aug-17,ODI # 3905,won,9 wickets,won,2nd, Sri Lanka,Dambulla,INDIA,6
+24-Aug-17,ODI # 3906,lost,3 wickets,lost,1st, India,Pallekele,SRILANKA,8
+24-Aug-17,ODI # 3906,won,3 wickets,won,2nd, Sri Lanka,Pallekele,INDIA,6
+27-Aug-17,ODI # 3907,lost,6 wickets,won,1st, India,Pallekele,SRILANKA,8
+27-Aug-17,ODI # 3907,won,6 wickets,lost,2nd, Sri Lanka,Pallekele,INDIA,6
+31-Aug-17,ODI # 3908,lost,168 runs,lost,2nd, India,Colombo (RPS),SRILANKA,8
+31-Aug-17,ODI # 3908,won,168 runs,won,1st, Sri Lanka,Colombo (RPS),INDIA,6
+3-Sep-17,ODI # 3909,lost,6 wickets,won,1st, India,Colombo (RPS),SRILANKA,8
+3-Sep-17,ODI # 3909,won,6 wickets,lost,2nd, Sri Lanka,Colombo (RPS),INDIA,6
+17-Sep-17,ODI # 3910,won,26 runs,won,1st, Australia,Chennai,INDIA,6
+17-Sep-17,ODI # 3910,lost,26 runs,lost,2nd, India,Chennai,AUSTRALIA,2
+19-Sep-17,ODI # 3911,lost,7 wickets,won,1st, England,Manchester,WESTINDIES,4
+19-Sep-17,ODI # 3911,won,7 wickets,lost,2nd, West Indies,Manchester,ENGLAND,1
+21-Sep-17,ODI # 3912,won,50 runs,won,1st, Australia,Kolkata,INDIA,6
+21-Sep-17,ODI # 3912,lost,50 runs,lost,2nd, India,Kolkata,AUSTRALIA,2
+24-Sep-17,ODI # 3914,won,5 wickets,lost,2nd, Australia,Indore,INDIA,6
+24-Sep-17,ODI # 3914,lost,5 wickets,won,1st, India,Indore,AUSTRALIA,2
+24-Sep-17,ODI # 3915,lost,124 runs,won,2nd, England,Bristol,WESTINDIES,4
+24-Sep-17,ODI # 3915,won,124 runs,lost,1st, West Indies,Bristol,ENGLAND,1
+27-Sep-17,ODI # 3916,lost,6 runs,lost,1st, England,The Oval,WESTINDIES,4
+27-Sep-17,ODI # 3916,won,6 runs,won,2nd, West Indies,The Oval,ENGLAND,1
+28-Sep-17,ODI # 3917,lost,21 runs,lost,2nd, Australia,Bengaluru,INDIA,6
+28-Sep-17,ODI # 3917,won,21 runs,won,1st, India,Bengaluru,AUSTRALIA,2
+29-Sep-17,ODI # 3918,lost,9 wickets,lost,1st, England,Southampton,WESTINDIES,4
+29-Sep-17,ODI # 3918,won,9 wickets,won,2nd, West Indies,Southampton,ENGLAND,1
+1-Oct-17,ODI # 3919,won,7 wickets,lost,2nd, Australia,Nagpur,INDIA,6
+1-Oct-17,ODI # 3919,lost,7 wickets,won,1st, India,Nagpur,AUSTRALIA,2
+13-Oct-17,ODI # 3922,lost,83 runs,won,2nd, Pakistan,Dubai (DSC),SRILANKA,8
+13-Oct-17,ODI # 3922,won,83 runs,lost,1st, Sri Lanka,Dubai (DSC),PAKISTAN,7
+15-Oct-17,ODI # 3923,won,10 wickets,lost,2nd, Bangladesh,Kimberley,SOUTHAFRICA,3
+15-Oct-17,ODI # 3923,lost,10 wickets,won,1st, South Africa,Kimberley,BANGLADESH,25
+16-Oct-17,ODI # 3924,lost,32 runs,lost,2nd, Pakistan,Abu Dhabi,SRILANKA,8
+16-Oct-17,ODI # 3924,won,32 runs,won,1st, Sri Lanka,Abu Dhabi,PAKISTAN,7
+18-Oct-17,ODI # 3925,won,104 runs,lost,1st, Bangladesh,Paarl,SOUTHAFRICA,3
+18-Oct-17,ODI # 3925,lost,104 runs,won,2nd, South Africa,Paarl,BANGLADESH,25
+18-Oct-17,ODI # 3926,lost,7 wickets,won,1st, Pakistan,Abu Dhabi,SRILANKA,8
+18-Oct-17,ODI # 3926,won,7 wickets,lost,2nd, Sri Lanka,Abu Dhabi,PAKISTAN,7
+20-Oct-17,ODI # 3927,lost,7 wickets,won,1st, Pakistan,Sharjah,SRILANKA,8
+20-Oct-17,ODI # 3927,won,7 wickets,lost,2nd, Sri Lanka,Sharjah,PAKISTAN,7
+22-Oct-17,ODI # 3928,won,6 wickets,lost,2nd, India,Mumbai,NEWZEALAD,5
+22-Oct-17,ODI # 3928,lost,6 wickets,won,1st, New Zealand,Mumbai,INDIA,6
+22-Oct-17,ODI # 3929,won,200 runs,won,1st, Bangladesh,East London,SOUTHAFRICA,3
+22-Oct-17,ODI # 3929,lost,200 runs,lost,2nd, South Africa,East London,BANGLADESH,25
+23-Oct-17,ODI # 3930,lost,9 wickets,won,1st, Pakistan,Sharjah,SRILANKA,8
+23-Oct-17,ODI # 3930,won,9 wickets,lost,2nd, Sri Lanka,Sharjah,PAKISTAN,7
+25-Oct-17,ODI # 3931,lost,6 wickets,won,1st, India,Pune,NEWZEALAD,5
+25-Oct-17,ODI # 3931,won,6 wickets,lost,2nd, New Zealand,Pune,INDIA,6
+29-Oct-17,ODI # 3932,lost,6 runs,won,2nd, India,Kanpur,NEWZEALAD,5
+29-Oct-17,ODI # 3932,won,6 runs,lost,1st, New Zealand,Kanpur,INDIA,6
+5-Dec-17,ODI # 3935,won,138 runs,lost,1st, Ireland,Sharjah,AFGHANISTAN,40
+7-Dec-17,ODI # 3937,lost,51 runs,lost,2nd, Ireland,Sharjah,AFGHANISTAN,40
+10-Dec-17,ODI # 3939,won,7 wickets,won,2nd, India,Dharamsala,SRILANKA,8
+10-Dec-17,ODI # 3939,lost,7 wickets,lost,1st, Sri Lanka,Dharamsala,INDIA,6
+10-Dec-17,ODI # 3940,lost,5 wickets,won,1st, Ireland,Sharjah,AFGHANISTAN,40
+13-Dec-17,ODI # 3941,lost,141 runs,won,2nd, India,Mohali,SRILANKA,8
+13-Dec-17,ODI # 3941,won,141 runs,lost,1st, Sri Lanka,Mohali,INDIA,6
+17-Dec-17,ODI # 3942,lost,8 wickets,lost,1st, India,Visakhapatnam,SRILANKA,8
+17-Dec-17,ODI # 3942,won,8 wickets,won,2nd, Sri Lanka,Visakhapatnam,INDIA,6
+20-Dec-17,ODI # 3943,lost,5 wickets,lost,1st, New Zealand,Whangarei,WESTINDIES,4
+20-Dec-17,ODI # 3943,won,5 wickets,won,2nd, West Indies,Whangarei,NEWZEALAD,5
+23-Dec-17,ODI # 3944,lost,204 runs,won,2nd, New Zealand,Christchurch,WESTINDIES,4
+23-Dec-17,ODI # 3944,won,204 runs,lost,1st, West Indies,Christchurch,NEWZEALAD,5
+26-Dec-17,ODI # 3945,lost,66 runs,lost,2nd, New Zealand,Christchurch,WESTINDIES,4
+26-Dec-17,ODI # 3945,won,66 runs,won,1st, West Indies,Christchurch,NEWZEALAD,5
+6-Jan-18,ODI # 3946,lost,61 runs,won,2nd, New Zealand,Wellington,PAKISTAN,7
+6-Jan-18,ODI # 3946,won,61 runs,lost,1st, Pakistan,Wellington,NEWZEALAD,5
+9-Jan-18,ODI # 3947,lost,8 wickets,won,1st, New Zealand,Nelson,PAKISTAN,7
+9-Jan-18,ODI # 3947,won,8 wickets,lost,2nd, Pakistan,Nelson,NEWZEALAD,5
+13-Jan-18,ODI # 3949,lost,183 runs,lost,2nd, New Zealand,Dunedin,PAKISTAN,7
+13-Jan-18,ODI # 3949,won,183 runs,won,1st, Pakistan,Dunedin,NEWZEALAD,5
+14-Jan-18,ODI # 3951,won,5 wickets,won,2nd, Australia,Melbourne,ENGLAND,1
+14-Jan-18,ODI # 3951,lost,5 wickets,lost,1st, England,Melbourne,AUSTRALIA,2
+15-Jan-18,ODI # 3952,won,8 wickets,won,2nd, Zimbabwe,Dhaka,BANGLADESH,25
+16-Jan-18,ODI # 3953,lost,5 wickets,won,1st, New Zealand,Hamilton,PAKISTAN,7
+16-Jan-18,ODI # 3953,won,5 wickets,lost,2nd, Pakistan,Hamilton,NEWZEALAD,5
+17-Jan-18,ODI # 3955,lost,12 runs,won,2nd, Zimbabwe,Dhaka,SRILANKA,8
+19-Jan-18,ODI # 3957,lost,15 runs,lost,2nd, New Zealand,Wellington,PAKISTAN,7
+19-Jan-18,ODI # 3957,won,15 runs,won,1st, Pakistan,Wellington,NEWZEALAD,5
+19-Jan-18,ODI # 3958,won,4 wickets,lost,2nd, Australia,Brisbane,ENGLAND,1
+19-Jan-18,ODI # 3958,lost,4 wickets,won,1st, England,Brisbane,AUSTRALIA,2
+19-Jan-18,ODI # 3959,lost,163 runs,lost,2nd, Bangladesh,Dhaka,SRILANKA,8
+19-Jan-18,ODI # 3959,won,163 runs,won,1st, Sri Lanka,Dhaka,BANGLADESH,25
+21-Jan-18,ODI # 3960,won,16 runs,lost,1st, Australia,Sydney,ENGLAND,1
+21-Jan-18,ODI # 3960,lost,16 runs,won,2nd, England,Sydney,AUSTRALIA,2
+21-Jan-18,ODI # 3962,won,5 wickets,lost,2nd, Zimbabwe,Dhaka,SRILANKA,8
+23-Jan-18,ODI # 3964,won,91 runs,won,1st, Zimbabwe,Dhaka,BANGLADESH,25
+25-Jan-18,ODI # 3965,won,10 wickets,lost,2nd, Bangladesh,Dhaka,SRILANKA,8
+25-Jan-18,ODI # 3965,lost,10 wickets,won,1st, Sri Lanka,Dhaka,BANGLADESH,25
+26-Jan-18,ODI # 3966,lost,3 wickets,lost,1st, Australia,Adelaide,ENGLAND,1
+26-Jan-18,ODI # 3966,won,3 wickets,won,2nd, England,Adelaide,AUSTRALIA,2
+27-Jan-18,ODI # 3967,won,79 runs,won,1st, Bangladesh,Dhaka,SRILANKA,8
+27-Jan-18,ODI # 3967,lost,79 runs,lost,2nd, Sri Lanka,Dhaka,BANGLADESH,25
+28-Jan-18,ODI # 3968,won,12 runs,lost,1st, Australia,Perth,ENGLAND,1
+28-Jan-18,ODI # 3968,lost,12 runs,won,2nd, England,Perth,AUSTRALIA,2
+1-Feb-18,ODI # 3969,lost,6 wickets,won,1st, India,Durban,SOUTHAFRICA,3
+1-Feb-18,ODI # 3969,won,6 wickets,lost,2nd, South Africa,Durban,INDIA,6
+4-Feb-18,ODI # 3970,lost,9 wickets,lost,1st, India,Centurion,SOUTHAFRICA,3
+4-Feb-18,ODI # 3970,won,9 wickets,won,2nd, South Africa,Centurion,INDIA,6
+7-Feb-18,ODI # 3971,lost,124 runs,won,2nd, India,Cape Town,SOUTHAFRICA,3
+7-Feb-18,ODI # 3971,won,124 runs,lost,1st, South Africa,Cape Town,INDIA,6
+9-Feb-18,ODI # 3972,won,154 runs,won,1st, Zimbabwe,Sharjah,AFGHANISTAN,40
+10-Feb-18,ODI # 3973,won,5 wickets,lost,2nd, India,Johannesburg,SOUTHAFRICA,3
+10-Feb-18,ODI # 3973,lost,5 wickets,won,1st, South Africa,Johannesburg,INDIA,6
+11-Feb-18,ODI # 3974,lost,154 runs,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+13-Feb-18,ODI # 3975,won,6 wickets,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+13-Feb-18,ODI # 3976,lost,73 runs,won,2nd, India,Port Elizabeth,SOUTHAFRICA,3
+13-Feb-18,ODI # 3976,won,73 runs,lost,1st, South Africa,Port Elizabeth,INDIA,6
+16-Feb-18,ODI # 3977,won,10 wickets,lost,2nd, Zimbabwe,Sharjah,AFGHANISTAN,40
+16-Feb-18,ODI # 3978,lost,8 wickets,lost,1st, India,Centurion,SOUTHAFRICA,3
+16-Feb-18,ODI # 3978,won,8 wickets,won,2nd, South Africa,Centurion,INDIA,6
+19-Feb-18,ODI # 3979,won,146 runs,won,1st, Zimbabwe,Sharjah,AFGHANISTAN,40
+25-Feb-18,ODI # 3980,won,3 wickets,won,2nd, England,Hamilton,NEWZEALAD,5
+25-Feb-18,ODI # 3980,lost,3 wickets,lost,1st, New Zealand,Hamilton,ENGLAND,1
+28-Feb-18,ODI # 3981,lost,6 wickets,lost,1st, England,Mount Maunganui,NEWZEALAD,5
+28-Feb-18,ODI # 3981,won,6 wickets,won,2nd, New Zealand,Mount Maunganui,ENGLAND,1
+3-Mar-18,ODI # 3982,lost,4 runs,won,2nd, England,Wellington,NEWZEALAD,5
+3-Mar-18,ODI # 3982,won,4 runs,lost,1st, New Zealand,Wellington,ENGLAND,1
+4-Mar-18,ODI # 3983,lost,7 wickets,lost,1st, Scotland,Bulawayo,AFGHANISTAN,40
+6-Mar-18,ODI # 3987,won,60 runs,won,1st, U.A.E.,Harare,WESTINDIES,4
+6-Mar-18,ODI # 3988,lost,2 runs,lost,2nd, Zimbabwe,Bulawayo,AFGHANISTAN,40
+7-Mar-18,ODI # 3989,won,5 wickets,won,2nd, England,Dunedin,NEWZEALAD,5
+7-Mar-18,ODI # 3989,lost,5 wickets,lost,1st, New Zealand,Dunedin,ENGLAND,1
+8-Mar-18,ODI # 3990,lost,30 runs,won,2nd, Hong Kong,Bulawayo,AFGHANISTAN,40
+8-Mar-18,ODI # 3991,won,6 wickets,lost,2nd, P.N.G.,Harare,WESTINDIES,4
+10-Mar-18,ODI # 3992,lost,7 wickets,lost,1st, England,Christchurch,NEWZEALAD,5
+10-Mar-18,ODI # 3992,won,7 wickets,won,2nd, New Zealand,Christchurch,ENGLAND,1
+10-Mar-18,ODI # 3993,won,52 runs,lost,1st, Ireland,Harare,WESTINDIES,4
+15-Mar-18,ODI # 3997,lost,3 wickets,won,1st, Afghanistan,Harare,WESTINDIES,4
+15-Mar-18,ODI # 3997,won,3 wickets,lost,2nd, West Indies,Harare,AFGHANISTAN,40
+19-Mar-18,ODI # 4002,won,4 wickets,lost,2nd, Zimbabwe,Harare,WESTINDIES,4
+20-Mar-18,ODI # 4003,won,5 wickets,lost,2nd, U.A.E.,Harare,AFGHANISTAN,40
+21-Mar-18,ODI # 4004,won,5 runs,lost,1st, Scotland,Harare,WESTINDIES,4
+23-Mar-18,ODI # 4006,won,5 wickets,lost,2nd, Ireland,Harare,AFGHANISTAN,40
+25-Mar-18,ODI # 4007,lost,7 wickets,won,1st, Afghanistan,Harare,WESTINDIES,4
+25-Mar-18,ODI # 4007,won,7 wickets,lost,2nd, West Indies,Harare,AFGHANISTAN,40
+10-Jun-18,ODI # 4008,lost,6 runs,won,2nd, Scotland,Edinburgh,ENGLAND,1
+13-Jun-18,ODI # 4009,won,3 wickets,lost,2nd, Australia,The Oval,ENGLAND,1
+13-Jun-18,ODI # 4009,lost,3 wickets,won,1st, England,The Oval,AUSTRALIA,2
+16-Jun-18,ODI # 4010,won,38 runs,lost,1st, Australia,Cardiff,ENGLAND,1
+16-Jun-18,ODI # 4010,lost,38 runs,won,2nd, England,Cardiff,AUSTRALIA,2
+19-Jun-18,ODI # 4011,won,242 runs,lost,1st, Australia,Nottingham,ENGLAND,1
+19-Jun-18,ODI # 4011,lost,242 runs,won,2nd, England,Nottingham,AUSTRALIA,2
+21-Jun-18,ODI # 4012,won,6 wickets,lost,2nd, Australia,Chester-le-Street,ENGLAND,1
+21-Jun-18,ODI # 4012,lost,6 wickets,won,1st, England,Chester-le-Street,AUSTRALIA,2
+24-Jun-18,ODI # 4013,won,1 wickets,lost,2nd, Australia,Manchester,ENGLAND,1
+24-Jun-18,ODI # 4013,lost,1 wickets,won,1st, England,Manchester,AUSTRALIA,2
+12-Jul-18,ODI # 4014,won,8 wickets,won,2nd, England,Nottingham,INDIA,6
+12-Jul-18,ODI # 4014,lost,8 wickets,lost,1st, India,Nottingham,ENGLAND,1
+13-Jul-18,ODI # 4015,won,201 runs,lost,1st, Zimbabwe,Bulawayo,PAKISTAN,7
+14-Jul-18,ODI # 4016,lost,86 runs,lost,2nd, England,Lord's,INDIA,6
+14-Jul-18,ODI # 4016,won,86 runs,won,1st, India,Lord's,ENGLAND,1
+16-Jul-18,ODI # 4017,won,9 wickets,lost,2nd, Zimbabwe,Bulawayo,PAKISTAN,7
+17-Jul-18,ODI # 4018,lost,8 wickets,lost,1st, England,Leeds,INDIA,6
+17-Jul-18,ODI # 4018,won,8 wickets,won,2nd, India,Leeds,ENGLAND,1
+18-Jul-18,ODI # 4019,won,9 wickets,lost,2nd, Zimbabwe,Bulawayo,PAKISTAN,7
+20-Jul-18,ODI # 4020,won,244 runs,won,1st, Zimbabwe,Bulawayo,PAKISTAN,7
+22-Jul-18,ODI # 4021,won,131 runs,won,1st, Zimbabwe,Bulawayo,PAKISTAN,7
+22-Jul-18,ODI # 4022,lost,48 runs,lost,2nd, Bangladesh,Providence,WESTINDIES,4
+22-Jul-18,ODI # 4022,won,48 runs,won,1st, West Indies,Providence,BANGLADESH,25
+25-Jul-18,ODI # 4023,won,3 runs,lost,1st, Bangladesh,Providence,WESTINDIES,4
+25-Jul-18,ODI # 4023,lost,3 runs,won,2nd, West Indies,Providence,BANGLADESH,25
+28-Jul-18,ODI # 4024,lost,18 runs,lost,2nd, Bangladesh,Basseterre,WESTINDIES,4
+28-Jul-18,ODI # 4024,won,18 runs,won,1st, West Indies,Basseterre,BANGLADESH,25
+29-Jul-18,ODI # 4025,lost,5 wickets,won,1st, South Africa,Dambulla,SRILANKA,8
+29-Jul-18,ODI # 4025,won,5 wickets,lost,2nd, Sri Lanka,Dambulla,SOUTHAFRICA,3
+1-Aug-18,ODI # 4027,lost,4 wickets,won,1st, South Africa,Dambulla,SRILANKA,8
+1-Aug-18,ODI # 4027,won,4 wickets,lost,2nd, Sri Lanka,Dambulla,SOUTHAFRICA,3
+5-Aug-18,ODI # 4029,lost,78 runs,won,2nd, South Africa,Pallekele,SRILANKA,8
+5-Aug-18,ODI # 4029,won,78 runs,lost,1st, Sri Lanka,Pallekele,SOUTHAFRICA,3
+8-Aug-18,ODI # 4030,won,3 runs,lost,1st, South Africa,Pallekele,SRILANKA,8
+8-Aug-18,ODI # 4030,lost,3 runs,won,2nd, Sri Lanka,Pallekele,SOUTHAFRICA,3
+12-Aug-18,ODI # 4031,won,178 runs,won,1st, South Africa,Colombo (RPS),SRILANKA,8
+12-Aug-18,ODI # 4031,lost,178 runs,lost,2nd, Sri Lanka,Colombo (RPS),SOUTHAFRICA,3
+27-Aug-18,ODI # 4032,won,29 runs,lost,1st, Ireland,Belfast,AFGHANISTAN,40
+29-Aug-18,ODI # 4033,lost,3 wickets,won,1st, Ireland,Belfast,AFGHANISTAN,40
+31-Aug-18,ODI # 4035,won,8 wickets,lost,2nd, Ireland,Belfast,AFGHANISTAN,40
+15-Sep-18,ODI # 4036,lost,137 runs,lost,2nd, Bangladesh,Dubai (DSC),SRILANKA,8
+15-Sep-18,ODI # 4036,won,137 runs,won,1st, Sri Lanka,Dubai (DSC),BANGLADESH,25
+16-Sep-18,ODI # 4037,won,8 wickets,lost,2nd, Hong Kong,Dubai (DSC),PAKISTAN,7
+17-Sep-18,ODI # 4038,lost,91 runs,lost,2nd, Afghanistan,Abu Dhabi,SRILANKA,8
+17-Sep-18,ODI # 4038,won,91 runs,won,1st, Sri Lanka,Abu Dhabi,AFGHANISTAN,40
+18-Sep-18,ODI # 4039,won,26 runs,lost,1st, Hong Kong,Dubai (DSC),INDIA,6
+19-Sep-18,ODI # 4040,lost,8 wickets,won,1st, India,Dubai (DSC),PAKISTAN,7
+19-Sep-18,ODI # 4040,won,8 wickets,lost,2nd, Pakistan,Dubai (DSC),INDIA,6
+20-Sep-18,ODI # 4041,lost,136 runs,lost,2nd, Afghanistan,Abu Dhabi,BANGLADESH,25
+20-Sep-18,ODI # 4041,won,136 runs,won,1st, Bangladesh,Abu Dhabi,AFGHANISTAN,40
+21-Sep-18,ODI # 4042,won,7 wickets,won,2nd, Bangladesh,Dubai (DSC),INDIA,6
+21-Sep-18,ODI # 4042,lost,7 wickets,lost,1st, India,Dubai (DSC),BANGLADESH,25
+21-Sep-18,ODI # 4043,won,3 wickets,lost,2nd, Afghanistan,Abu Dhabi,PAKISTAN,7
+21-Sep-18,ODI # 4043,lost,3 wickets,won,1st, Pakistan,Abu Dhabi,AFGHANISTAN,40
+23-Sep-18,ODI # 4044,lost,9 wickets,won,1st, India,Dubai (DSC),PAKISTAN,7
+23-Sep-18,ODI # 4044,won,9 wickets,lost,2nd, Pakistan,Dubai (DSC),INDIA,6
+23-Sep-18,ODI # 4045,won,3 runs,won,1st, Afghanistan,Abu Dhabi,BANGLADESH,25
+23-Sep-18,ODI # 4045,lost,3 runs,lost,2nd, Bangladesh,Abu Dhabi,AFGHANISTAN,40
+26-Sep-18,ODI # 4047,lost,37 runs,lost,2nd, Bangladesh,Abu Dhabi,PAKISTAN,7
+26-Sep-18,ODI # 4047,won,37 runs,won,1st, Pakistan,Abu Dhabi,BANGLADESH,25
+28-Sep-18,ODI # 4048,won,3 wickets,won,2nd, Bangladesh,Dubai (DSC),INDIA,6
+28-Sep-18,ODI # 4048,lost,3 wickets,lost,1st, India,Dubai (DSC),BANGLADESH,25
+30-Sep-18,ODI # 4049,won,5 wickets,won,2nd, Zimbabwe,Kimberley,SOUTHAFRICA,3
+3-Oct-18,ODI # 4050,won,120 runs,won,1st, Zimbabwe,Bloemfontein,SOUTHAFRICA,3
+6-Oct-18,ODI # 4051,won,4 wickets,lost,2nd, Zimbabwe,Paarl,SOUTHAFRICA,3
+13-Oct-18,ODI # 4053,lost,31 runs,won,2nd, England,Dambulla,SRILANKA,8
+13-Oct-18,ODI # 4053,won,31 runs,lost,1st, Sri Lanka,Dambulla,ENGLAND,1
+17-Oct-18,ODI # 4054,lost,7 wickets,lost,1st, England,Pallekele,SRILANKA,8
+17-Oct-18,ODI # 4054,won,7 wickets,won,2nd, Sri Lanka,Pallekele,ENGLAND,1
+20-Oct-18,ODI # 4055,lost,18 runs,lost,1st, England,Pallekele,SRILANKA,8
+20-Oct-18,ODI # 4055,won,18 runs,won,2nd, Sri Lanka,Pallekele,ENGLAND,1
+21-Oct-18,ODI # 4056,lost,8 wickets,lost,1st, India,Guwahati,WESTINDIES,4
+21-Oct-18,ODI # 4056,won,8 wickets,won,2nd, West Indies,Guwahati,INDIA,6
+21-Oct-18,ODI # 4057,won,28 runs,won,1st, Zimbabwe,Dhaka,BANGLADESH,25
+23-Oct-18,ODI # 4058,won,219 runs,won,1st, England,Colombo (RPS),SRILANKA,8
+23-Oct-18,ODI # 4058,lost,219 runs,lost,2nd, Sri Lanka,Colombo (RPS),ENGLAND,1
+24-Oct-18,ODI # 4060,won,7 wickets,won,2nd, Zimbabwe,Chattogram,BANGLADESH,25
+26-Oct-18,ODI # 4061,won,7 wickets,won,2nd, Zimbabwe,Chattogram,BANGLADESH,25
+27-Oct-18,ODI # 4062,won,43 runs,lost,1st, India,Pune,WESTINDIES,4
+27-Oct-18,ODI # 4062,lost,43 runs,won,2nd, West Indies,Pune,INDIA,6
+29-Oct-18,ODI # 4063,lost,224 runs,lost,2nd, India,Mumbai (BS),WESTINDIES,4
+29-Oct-18,ODI # 4063,won,224 runs,won,1st, West Indies,Mumbai (BS),INDIA,6
+1-Nov-18,ODI # 4064,lost,9 wickets,won,1st, India,Thiruvananthapuram,WESTINDIES,4
+1-Nov-18,ODI # 4064,won,9 wickets,lost,2nd, West Indies,Thiruvananthapuram,INDIA,6
+4-Nov-18,ODI # 4065,won,6 wickets,won,2nd, Australia,Perth,SOUTHAFRICA,3
+4-Nov-18,ODI # 4065,lost,6 wickets,lost,1st, South Africa,Perth,AUSTRALIA,2
+7-Nov-18,ODI # 4066,lost,47 runs,lost,2nd, New Zealand,Abu Dhabi,PAKISTAN,7
+7-Nov-18,ODI # 4066,won,47 runs,won,1st, Pakistan,Abu Dhabi,NEWZEALAD,5
+9-Nov-18,ODI # 4067,lost,7 runs,won,2nd, Australia,Adelaide,SOUTHAFRICA,3
+9-Nov-18,ODI # 4067,won,7 runs,lost,1st, South Africa,Adelaide,AUSTRALIA,2
+9-Nov-18,ODI # 4068,won,6 wickets,lost,2nd, New Zealand,Abu Dhabi,PAKISTAN,7
+9-Nov-18,ODI # 4068,lost,6 wickets,won,1st, Pakistan,Abu Dhabi,NEWZEALAD,5
+11-Nov-18,ODI # 4069,won,40 runs,lost,1st, Australia,Hobart,SOUTHAFRICA,3
+11-Nov-18,ODI # 4069,lost,40 runs,won,2nd, South Africa,Hobart,AUSTRALIA,2
+9-Dec-18,ODI # 4071,lost,5 wickets,won,1st, Bangladesh,Dhaka,WESTINDIES,4
+9-Dec-18,ODI # 4071,won,5 wickets,lost,2nd, West Indies,Dhaka,BANGLADESH,25
+11-Dec-18,ODI # 4072,won,4 wickets,won,2nd, Bangladesh,Dhaka,WESTINDIES,4
+11-Dec-18,ODI # 4072,lost,4 wickets,lost,1st, West Indies,Dhaka,BANGLADESH,25
+14-Dec-18,ODI # 4073,lost,8 wickets,lost,1st, Bangladesh,Sylhet,WESTINDIES,4
+14-Dec-18,ODI # 4073,won,8 wickets,won,2nd, West Indies,Sylhet,BANGLADESH,25
+3-Jan-19,ODI # 4074,lost,45 runs,lost,2nd, New Zealand,Mount Maunganui,SRILANKA,8
+3-Jan-19,ODI # 4074,won,45 runs,won,1st, Sri Lanka,Mount Maunganui,NEWZEALAD,5
+5-Jan-19,ODI # 4075,lost,21 runs,lost,2nd, New Zealand,Mount Maunganui,SRILANKA,8
+5-Jan-19,ODI # 4075,won,21 runs,won,1st, Sri Lanka,Mount Maunganui,NEWZEALAD,5
+8-Jan-19,ODI # 4076,lost,115 runs,won,2nd, New Zealand,Nelson,SRILANKA,8
+8-Jan-19,ODI # 4076,won,115 runs,lost,1st, Sri Lanka,Nelson,NEWZEALAD,5
+12-Jan-19,ODI # 4077,lost,34 runs,lost,2nd, Australia,Sydney,INDIA,6
+12-Jan-19,ODI # 4077,won,34 runs,won,1st, India,Sydney,AUSTRALIA,2
+15-Jan-19,ODI # 4078,won,6 wickets,lost,2nd, Australia,Adelaide,INDIA,6
+15-Jan-19,ODI # 4078,lost,6 wickets,won,1st, India,Adelaide,AUSTRALIA,2
+18-Jan-19,ODI # 4079,won,7 wickets,won,2nd, Australia,Melbourne,INDIA,6
+18-Jan-19,ODI # 4079,lost,7 wickets,lost,1st, India,Melbourne,AUSTRALIA,2
+19-Jan-19,ODI # 4080,lost,5 wickets,won,1st, Pakistan,Port Elizabeth,SOUTHAFRICA,3
+19-Jan-19,ODI # 4080,won,5 wickets,lost,2nd, South Africa,Port Elizabeth,PAKISTAN,7
+22-Jan-19,ODI # 4081,won,5 wickets,won,2nd, Pakistan,Durban,SOUTHAFRICA,3
+22-Jan-19,ODI # 4081,lost,5 wickets,lost,1st, South Africa,Durban,PAKISTAN,7
+23-Jan-19,ODI # 4082,lost,8 wickets,won,1st, India,Napier,NEWZEALAD,5
+23-Jan-19,ODI # 4082,won,8 wickets,lost,2nd, New Zealand,Napier,INDIA,6
+25-Jan-19,ODI # 4084,won,13 runs,lost,2nd, Pakistan,Centurion,SOUTHAFRICA,3
+25-Jan-19,ODI # 4084,lost,13 runs,won,1st, South Africa,Centurion,PAKISTAN,7
+26-Jan-19,ODI # 4085,lost,90 runs,lost,2nd, India,Mount Maunganui,NEWZEALAD,5
+26-Jan-19,ODI # 4085,won,90 runs,won,1st, New Zealand,Mount Maunganui,INDIA,6
+27-Jan-19,ODI # 4087,lost,8 wickets,lost,1st, Pakistan,Johannesburg,SOUTHAFRICA,3
+27-Jan-19,ODI # 4087,won,8 wickets,won,2nd, South Africa,Johannesburg,PAKISTAN,7
+28-Jan-19,ODI # 4088,lost,7 wickets,won,1st, India,Mount Maunganui,NEWZEALAD,5
+28-Jan-19,ODI # 4088,won,7 wickets,lost,2nd, New Zealand,Mount Maunganui,INDIA,6
+30-Jan-19,ODI # 4090,won,7 wickets,won,2nd, Pakistan,Cape Town,SOUTHAFRICA,3
+30-Jan-19,ODI # 4090,lost,7 wickets,lost,1st, South Africa,Cape Town,PAKISTAN,7
+31-Jan-19,ODI # 4091,won,8 wickets,won,2nd, India,Hamilton,NEWZEALAD,5
+31-Jan-19,ODI # 4091,lost,8 wickets,lost,1st, New Zealand,Hamilton,INDIA,6
+3-Feb-19,ODI # 4092,lost,35 runs,lost,2nd, India,Wellington,NEWZEALAD,5
+3-Feb-19,ODI # 4092,won,35 runs,won,1st, New Zealand,Wellington,INDIA,6
+13-Feb-19,ODI # 4093,won,8 wickets,lost,2nd, Bangladesh,Napier,NEWZEALAD,5
+13-Feb-19,ODI # 4093,lost,8 wickets,won,1st, New Zealand,Napier,BANGLADESH,25
+16-Feb-19,ODI # 4094,won,8 wickets,won,2nd, Bangladesh,Christchurch,NEWZEALAD,5
+16-Feb-19,ODI # 4094,lost,8 wickets,lost,1st, New Zealand,Christchurch,BANGLADESH,25
+20-Feb-19,ODI # 4095,won,88 runs,lost,1st, Bangladesh,Dunedin,NEWZEALAD,5
+20-Feb-19,ODI # 4095,lost,88 runs,won,2nd, New Zealand,Dunedin,BANGLADESH,25
+20-Feb-19,ODI # 4096,lost,6 wickets,won,1st, England,Bridgetown,WESTINDIES,4
+20-Feb-19,ODI # 4096,won,6 wickets,lost,2nd, West Indies,Bridgetown,ENGLAND,1
+22-Feb-19,ODI # 4097,won,26 runs,lost,1st, England,Bridgetown,WESTINDIES,4
+22-Feb-19,ODI # 4097,lost,26 runs,won,2nd, West Indies,Bridgetown,ENGLAND,1
+27-Feb-19,ODI # 4099,lost,29 runs,won,2nd, England,St George's,WESTINDIES,4
+27-Feb-19,ODI # 4099,won,29 runs,lost,1st, West Indies,St George's,ENGLAND,1
+28-Feb-19,ODI # 4100,won,5 wickets,lost,2nd, Ireland,Dehradun,AFGHANISTAN,40
+2-Mar-19,ODI # 4102,won,6 wickets,lost,2nd, Australia,Hyderabad (Deccan),INDIA,6
+2-Mar-19,ODI # 4102,lost,6 wickets,won,1st, India,Hyderabad (Deccan),AUSTRALIA,2
+2-Mar-19,ODI # 4103,won,7 wickets,won,2nd, England,Gros Islet,WESTINDIES,4
+2-Mar-19,ODI # 4103,lost,7 wickets,lost,1st, West Indies,Gros Islet,ENGLAND,1
+3-Mar-19,ODI # 4104,lost,8 wickets,lost,1st, South Africa,Johannesburg,SRILANKA,8
+3-Mar-19,ODI # 4104,won,8 wickets,won,2nd, Sri Lanka,Johannesburg,SOUTHAFRICA,3
+5-Mar-19,ODI # 4105,lost,4 wickets,won,1st, Ireland,Dehradun,AFGHANISTAN,40
+5-Mar-19,ODI # 4106,won,8 runs,lost,1st, Australia,Nagpur,INDIA,6
+5-Mar-19,ODI # 4106,lost,8 runs,won,2nd, India,Nagpur,AUSTRALIA,2
+6-Mar-19,ODI # 4107,lost,113 runs,won,2nd, South Africa,Centurion,SRILANKA,8
+6-Mar-19,ODI # 4107,won,113 runs,lost,1st, Sri Lanka,Centurion,SOUTHAFRICA,3
+8-Mar-19,ODI # 4108,won,109 runs,lost,1st, Ireland,Dehradun,AFGHANISTAN,40
+8-Mar-19,ODI # 4109,lost,32 runs,won,2nd, Australia,Ranchi,INDIA,6
+8-Mar-19,ODI # 4109,won,32 runs,lost,1st, India,Ranchi,AUSTRALIA,2
+10-Mar-19,ODI # 4110,lost,5 wickets,lost,1st, Ireland,Dehradun,AFGHANISTAN,40
+10-Mar-19,ODI # 4111,lost,4 wickets,won,1st, Australia,Mohali,INDIA,6
+10-Mar-19,ODI # 4111,won,4 wickets,lost,2nd, India,Mohali,AUSTRALIA,2
+10-Mar-19,ODI # 4112,lost,71 runs,won,2nd, South Africa,Durban,SRILANKA,8
+10-Mar-19,ODI # 4112,won,71 runs,lost,1st, Sri Lanka,Durban,SOUTHAFRICA,3
+13-Mar-19,ODI # 4113,lost,35 runs,lost,2nd, Australia,Delhi,INDIA,6
+13-Mar-19,ODI # 4113,won,35 runs,won,1st, India,Delhi,AUSTRALIA,2
+13-Mar-19,ODI # 4114,lost,6 wickets,lost,1st, South Africa,Port Elizabeth,SRILANKA,8
+13-Mar-19,ODI # 4114,won,6 wickets,won,2nd, Sri Lanka,Port Elizabeth,SOUTHAFRICA,3
+16-Mar-19,ODI # 4115,lost,41 runs,won,1st, South Africa,Cape Town,SRILANKA,8
+16-Mar-19,ODI # 4115,won,41 runs,lost,2nd, Sri Lanka,Cape Town,SOUTHAFRICA,3
+22-Mar-19,ODI # 4116,lost,8 wickets,won,1st, Australia,Sharjah,PAKISTAN,7
+22-Mar-19,ODI # 4116,won,8 wickets,lost,2nd, Pakistan,Sharjah,AUSTRALIA,2
+24-Mar-19,ODI # 4117,lost,8 wickets,won,1st, Australia,Sharjah,PAKISTAN,7
+24-Mar-19,ODI # 4117,won,8 wickets,lost,2nd, Pakistan,Sharjah,AUSTRALIA,2
+27-Mar-19,ODI # 4118,lost,80 runs,lost,2nd, Australia,Abu Dhabi,PAKISTAN,7
+27-Mar-19,ODI # 4118,won,80 runs,won,1st, Pakistan,Abu Dhabi,AUSTRALIA,2
+29-Mar-19,ODI # 4119,lost,6 runs,won,2nd, Australia,Dubai (DSC),PAKISTAN,7
+29-Mar-19,ODI # 4119,won,6 runs,lost,1st, Pakistan,Dubai (DSC),AUSTRALIA,2
+31-Mar-19,ODI # 4120,lost,20 runs,won,2nd, Australia,Dubai (DSC),PAKISTAN,7
+31-Mar-19,ODI # 4120,won,20 runs,lost,1st, Pakistan,Dubai (DSC),AUSTRALIA,2
+3-May-19,ODI # 4127,won,4 wickets,won,2nd, Ireland,Dublin (Malahide),ENGLAND,1
+5-May-19,ODI # 4128,won,196 runs,lost,1st, Ireland,Dublin,WESTINDIES,4
+7-May-19,ODI # 4129,lost,8 wickets,won,1st, Bangladesh,Dublin,WESTINDIES,4
+7-May-19,ODI # 4129,won,8 wickets,lost,2nd, West Indies,Dublin,BANGLADESH,25
+10-May-19,ODI # 4131,won,2 runs,lost,2nd, Scotland,Edinburgh,AFGHANISTAN,40
+11-May-19,ODI # 4132,won,5 wickets,lost,2nd, Ireland,Dublin (Malahide),WESTINDIES,4
+11-May-19,ODI # 4133,lost,12 runs,won,2nd, England,Southampton,PAKISTAN,7
+11-May-19,ODI # 4133,won,12 runs,lost,1st, Pakistan,Southampton,ENGLAND,1
+13-May-19,ODI # 4134,lost,5 wickets,won,1st, Bangladesh,Dublin (Malahide),WESTINDIES,4
+13-May-19,ODI # 4134,won,5 wickets,lost,2nd, West Indies,Dublin (Malahide),BANGLADESH,25
+14-May-19,ODI # 4135,lost,6 wickets,lost,1st, England,Bristol,PAKISTAN,7
+14-May-19,ODI # 4135,won,6 wickets,won,2nd, Pakistan,Bristol,ENGLAND,1
+15-May-19,ODI # 4136,won,6 wickets,lost,2nd, Ireland,Dublin,BANGLADESH,25
+17-May-19,ODI # 4137,lost,5 wickets,lost,1st, Bangladesh,Dublin (Malahide),WESTINDIES,4
+17-May-19,ODI # 4137,won,5 wickets,won,2nd, West Indies,Dublin (Malahide),BANGLADESH,25
+17-May-19,ODI # 4138,lost,3 wickets,lost,1st, England,Nottingham,PAKISTAN,7
+17-May-19,ODI # 4138,won,3 wickets,won,2nd, Pakistan,Nottingham,ENGLAND,1
+19-Nov-16,ODI # 3806,tied,,lost,2nd, Zimbabwe,Bulawayo,WESTINDIES,4
+21-Nov-16,ODI # 3807,n/r,,lost,2nd, Zimbabwe,Bulawayo,SRILANKA,8
+28-Mar-17,ODI # 3856,n/r,,won,1st, Bangladesh,Dambulla,SRILANKA,8
+28-Mar-17,ODI # 3856,n/r,,lost,2nd, Sri Lanka,Dambulla,BANGLADESH,25
+12-May-17,ODI # 3866,n/r,,lost,1st, Ireland,Dublin (Malahide),BANGLADESH,25
+2-Jun-17,ODI # 3876,n/r,,won,1st, Australia,Birmingham,NEWZEALAD,5
+2-Jun-17,ODI # 3876,n/r,,lost,2nd, New Zealand,Birmingham,AUSTRALIA,2
+5-Jun-17,ODI # 3879,n/r,,won,1st, Australia,The Oval,BANGLADESH,25
+5-Jun-17,ODI # 3879,n/r,,lost,2nd, Bangladesh,The Oval,AUSTRALIA,2
+23-Jun-17,ODI # 3895,n/r,,won,2nd, India,Port of Spain,WESTINDIES,4
+23-Jun-17,ODI # 3895,n/r,,lost,1st, West Indies,Port of Spain,INDIA,6
+21-Sep-17,ODI # 3913,n/r,,won,2nd, England,Nottingham,WESTINDIES,4
+21-Sep-17,ODI # 3913,n/r,,lost,1st, West Indies,Nottingham,ENGLAND,1
+25-Sep-18,ODI # 4046,tied,,lost,2nd, Afghanistan,Dubai (DSC),INDIA,6
+25-Sep-18,ODI # 4046,tied,,won,1st, India,Dubai (DSC),AFGHANISTAN,40
+10-Oct-18,ODI # 4052,n/r,,won,2nd, England,Dambulla,SRILANKA,8
+10-Oct-18,ODI # 4052,n/r,,lost,1st, Sri Lanka,Dambulla,ENGLAND,1
+24-Oct-18,ODI # 4059,tied,,lost,2nd, India,Visakhapatnam,WESTINDIES,4
+24-Oct-18,ODI # 4059,tied,,won,1st, West Indies,Visakhapatnam,INDIA,6
+11-Nov-18,ODI # 4070,n/r,,won,1st, New Zealand,Dubai (DSC),PAKISTAN,7
+11-Nov-18,ODI # 4070,n/r,,lost,2nd, Pakistan,Dubai (DSC),NEWZEALAD,5
+2-Mar-19,ODI # 4101,n/r,,won,1st, Ireland,Dehradun,AFGHANISTAN,40
+8-May-19,ODI # 4130,n/r,,lost,1st, England,The Oval,PAKISTAN,7
+8-May-19,ODI # 4130,n/r,,won,2nd, Pakistan,The Oval,ENGLAND,1
+14-Jun-17,ODI # 3890,n/r,,lost,, Afghanistan,Gros Islet,WESTINDIES,4
+14-Jun-17,ODI # 3890,n/r,,won,, West Indies,Gros Islet,AFGHANISTAN,40
+25-Feb-19,ODI # 4098,n/r,,lost,, England,St George's,WESTINDIES,4
+25-Feb-19,ODI # 4098,n/r,,won,, West Indies,St George's,ENGLAND,1
+2-Feb-17,ODI # 3830,NOT PLAYED,,,, Australia,Napier,NEWZEALAD,5
+2-Feb-17,ODI # 3830,NOT PLAYED,,,, New Zealand,Napier,AUSTRALIA,2
+13-Sep-17,ODI # 3909,NOT PLAYED,,,, Ireland,Belfast,WESTINDIES,4
+8-May-19,ODI # 4129,NOT PLAYED,,,, Scotland,Edinburgh,AFGHANISTAN,40
+9-May-19,ODI # 4130,NOT PLAYED,,,, Ireland,Dublin (Malahide),BANGLADESH,25
+18-May-19,ODI # 4138,NOT PLAYED,,,, Scotland,Edinburgh,SRILANKA,8
+19-May-19,ODI # 4139,n/r,,won,2nd, Ireland,Belfast,AFGHANISTAN,40
+19-May-19,ODI # 4140,n/r,,lost,2nd, England,Leeds,PAKISTAN,7
+19-May-19,ODI # 4140,n/r,,won,1st, Pakistan,Leeds,ENGLAND,1
